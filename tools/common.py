@@ -4,11 +4,14 @@ from __future__ import annotations
 
 import hashlib
 import json
+import os
 import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-RAW = ROOT / "raw"  # downloaded upstream libraries, never edited by the pipeline
+# Downloaded upstream libraries, never edited by the pipeline.
+# Set POTDEX_RAW to keep them elsewhere (e.g. a shared disk on a cluster).
+RAW = Path(os.environ["POTDEX_RAW"]).resolve() if os.environ.get("POTDEX_RAW") else ROOT / "raw"
 CATALOG = ROOT / "catalog"
 METADATA = CATALOG / "metadata"
 LIBRARIES_META = METADATA / "libraries"
@@ -34,7 +37,19 @@ ELEMENT_RE = re.compile(r"^([A-Z][a-z]?)")
 
 
 def rel_path(path: Path) -> str:
-    return path.relative_to(ROOT).as_posix()
+    """Catalog path for a file: 'raw/<lib>/...' for raw data (wherever RAW lives), else repo-relative."""
+    path = path.resolve()
+    try:
+        return "raw/" + path.relative_to(RAW).as_posix()
+    except ValueError:
+        return path.relative_to(ROOT).as_posix()
+
+
+def resolve_catalog_path(path: str) -> Path:
+    """Inverse of rel_path: map a stored 'raw/...' path onto RAW."""
+    if path.startswith("raw/"):
+        return RAW / path[4:]
+    return ROOT / path
 
 
 def md5_file(path: Path) -> str:
@@ -86,12 +101,13 @@ def element_from_sssp_filename(filename: str) -> str | None:
 
 def write_json(path: Path, data: object) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    # newline="\n": identical bytes whether the catalog is built on Windows or Linux
+    path.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
 
 
 def write_jsonl(path: Path, rows: list[dict]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    with path.open("w", encoding="utf-8") as f:
+    with path.open("w", encoding="utf-8", newline="\n") as f:
         for row in rows:
             f.write(json.dumps(row, ensure_ascii=False) + "\n")
 

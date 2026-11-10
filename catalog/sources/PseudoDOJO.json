@@ -2,15 +2,12 @@
   "library": "PseudoDOJO",
   "path": "raw/PseudoDOJO",
   "url": "https://www.pseudo-dojo.org",
-  "kind": "http",
   "license": "CC BY 4.0",
   "license_verified": false,
-  "fetch": "tools/fetch/download_pseudodojo.py",
   "git": null,
   "files": 2312,
   "bytes": 2442191052,
-  "newest_file_mtime": "2026-11-10",
   "manifest": "PseudoDOJO.sha256",
   "manifest_sha256": "56faea26a57aee093fa545e99d0d937089b339b5e8200af7e434e958ba3609c7",
-  "recorded_at": "2026-11-10T12:39:42+00:00"
+  "recorded_at": "2026-11-10T13:19:51+00:00"
 }

@@ -2,11 +2,14 @@
 """Retry failed PSlibrary downloads."""
 import json
 import urllib.request
+import os
 from pathlib import Path
+
+RAW_DIR = Path(os.environ["POTDEX_RAW"]) if os.environ.get("POTDEX_RAW") else Path(__file__).resolve().parents[2] / "raw"
 
 from download_pslibrary import download_upf
 
-BASE = Path(__file__).resolve().parents[2] / "raw" / "PSlibrary"
+BASE = RAW_DIR / "PSlibrary"
 summary = json.loads((BASE / "metadata/download_summary.json").read_text(encoding="utf-8"))
 
 retry = [

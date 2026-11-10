@@ -1,0 +1,318 @@
+{
+  "_doc": "Where every raw/ library comes from. Read by tools/fetch_all.py and tools/record_sources.py. Licence fields are upstream's statement as far as known; license_verified=false means nobody has checked it yet.",
+  "libraries": {
+    "BLPSLibrary": {
+      "url": "https://github.com/PrincetonUniversity/BLPSLibrary",
+      "license": "CC BY-ND 4.0",
+      "license_verified": true,
+      "license_file": "LICENSE.md",
+      "upstream": [
+        {
+          "type": "git",
+          "url": "https://github.com/PrincetonUniversity/BLPSLibrary.git",
+          "commit": "b3406622cd129478002ef16e53044e175321ad71"
+        }
+      ]
+    },
+    "pseudos_ac_she": {
+      "url": "https://github.com/gmatteo/pseudos_ac_she",
+      "license": null,
+      "license_verified": false,
+      "upstream": [
+        {
+          "type": "git",
+          "url": "https://github.com/gmatteo/pseudos_ac_she.git",
+          "commit": "2b1b14799525afcc71e940e77f099fbee430153f"
+        }
+      ]
+    },
+    "SG15-ONCV": {
+      "url": "http://www.quantum-simulation.org/potentials/sg15_oncv/",
+      "license": "CC BY-SA 4.0",
+      "license_verified": false,
+      "upstream": [
+        {
+          "type": "files",
+          "base": "http://www.quantum-simulation.org/potentials/sg15_oncv/",
+          "files": [
+            "sg15_oncv_2015-10-07.tar.gz",
+            "sg15_oncv_upf_2015-10-07.tar.gz",
+            "sg15_oncv_upf_2020-02-06.tar.gz",
+            "sg15_oncv_xml_2015-10-07.tar.gz",
+            "sg15_oncv_xml_2018-06-25.tar.gz"
+          ]
+        },
+        {
+          "type": "extract",
+          "archive": "sg15_oncv_upf_2020-02-06.tar.gz",
+          "dest": "upf",
+          "flatten": true
+        },
+        {
+          "type": "extract",
+          "archive": "sg15_oncv_upf_2015-10-07.tar.gz",
+          "dest": "upf",
+          "flatten": true,
+          "_why": "the 86 scalar-relativistic 1.0 files in raw/ are the 2015 versions"
+        },
+        {
+          "type": "files",
+          "base": "http://www.quantum-simulation.org/potentials/sg15_oncv/",
+          "files": [
+            "upf/Ag_ONCV_PBE_FR-1.0.upf",
+            "upf/Al_ONCV_PBE_FR-1.0.upf",
+            "upf/Ar_ONCV_PBE_FR-1.1.upf",
+            "upf/As_ONCV_PBE_FR-1.1.upf",
+            "upf/Au_ONCV_PBE_FR-1.0.upf",
+            "upf/B_ONCV_PBE_FR-1.0.upf",
+            "upf/Br_ONCV_PBE_FR-1.0.upf",
+            "upf/C_ONCV_PBE_FR-1.0.upf",
+            "upf/Ca_ONCV_PBE_FR-1.0.upf",
+            "upf/Cd_ONCV_PBE_FR-1.0.upf",
+            "upf/Cl_ONCV_PBE_FR-1.1.upf",
+            "upf/Co_ONCV_PBE_FR-1.0.upf",
+            "upf/Cr_ONCV_PBE_FR-1.0.upf",
+            "upf/Cs_ONCV_PBE_FR-1.0.upf",
+            "upf/Cu_ONCV_PBE_FR-1.0.upf",
+            "upf/F_ONCV_PBE_FR-1.0.upf",
+            "upf/Fe_ONCV_PBE_FR-1.0.upf",
+            "upf/Ga_ONCV_PBE_FR-1.0.upf",
+            "upf/Ge_ONCV_PBE_FR-1.0.upf",
+            "upf/H_ONCV_PBE_FR-1.0.upf",
+            "upf/He_ONCV_PBE_FR-1.0.upf",
+            "upf/Hf_ONCV_PBE_FR-1.0.upf",
+            "upf/Hg_ONCV_PBE_FR-1.0.upf",
+            "upf/I_ONCV_PBE_FR-1.1.upf",
+            "upf/In_ONCV_PBE_FR-1.0.upf",
+            "upf/Ir_ONCV_PBE_FR-1.0.upf",
+            "upf/K_ONCV_PBE_FR-1.0.upf",
+            "upf/Kr_ONCV_PBE_FR-1.0.upf",
+            "upf/La_ONCV_PBE_FR-1.0.upf",
+            "upf/Mg_ONCV_PBE_FR-1.0.upf",
+            "upf/Mn_ONCV_PBE_FR-1.0.upf",
+            "upf/Mo_ONCV_PBE_FR-1.0.upf",
+            "upf/N_ONCV_PBE_FR-1.0.upf",
+            "upf/Na_ONCV_PBE_FR-1.0.upf",
+            "upf/Nb_ONCV_PBE_FR-1.0.upf",
+            "upf/Ni_ONCV_PBE_FR-1.0.upf",
+            "upf/O_ONCV_PBE_FR-1.0.upf",
+            "upf/Os_ONCV_PBE_FR-1.0.upf",
+            "upf/P_ONCV_PBE_FR-1.1.upf",
+            "upf/Pb_ONCV_PBE_FR-1.0.upf",
+            "upf/Pd_ONCV_PBE_FR-1.0.upf",
+            "upf/Pt_ONCV_PBE_FR-1.0.upf",
+            "upf/Rb_ONCV_PBE_FR-1.0.upf",
+            "upf/Re_ONCV_PBE_FR-1.0.upf",
+            "upf/Rh_ONCV_PBE_FR-1.0.upf",
+            "upf/Ru_ONCV_PBE_FR-1.0.upf",
+            "upf/S_ONCV_PBE_FR-1.1.upf",
+            "upf/Sb_ONCV_PBE_FR-1.1.upf",
+            "upf/Sc_ONCV_PBE_FR-1.0.upf",
+            "upf/Se_ONCV_PBE_FR-1.1.upf",
+            "upf/Si_ONCV_PBE_FR-1.1.upf",
+            "upf/Sn_ONCV_PBE_FR-1.1.upf",
+            "upf/Sr_ONCV_PBE_FR-1.0.upf",
+            "upf/Ta_ONCV_PBE_FR-1.0.upf",
+            "upf/Tc_ONCV_PBE_FR-1.0.upf",
+            "upf/Te_ONCV_PBE_FR-1.1.upf",
+            "upf/Ti_ONCV_PBE_FR-1.0.upf",
+            "upf/Tl_ONCV_PBE_FR-1.0.upf",
+            "upf/V_ONCV_PBE_FR-1.0.upf",
+            "upf/W_ONCV_PBE_FR-1.0.upf",
+            "upf/Xe_ONCV_PBE_FR-1.1.upf",
+            "upf/Y_ONCV_PBE_FR-1.0.upf",
+            "upf/Zn_ONCV_PBE_FR-1.0.upf",
+            "upf/Zr_ONCV_PBE_FR-1.0.upf"
+          ],
+          "_why": "fully-relativistic files in raw/ were fetched one by one from the site; they differ from the tarball copies only in the PP_INFO header"
+        },
+        {
+          "type": "extract",
+          "archive": "sg15_oncv_xml_2018-06-25.tar.gz",
+          "dest": "xml",
+          "flatten": true
+        }
+      ]
+    },
+    "SSSP": {
+      "url": "https://archive.materialscloud.org/records/rcyfm-68h65",
+      "license": "CC BY 4.0 (record); individual pseudopotentials keep their own licences",
+      "license_verified": true,
+      "upstream": [
+        {
+          "type": "files",
+          "base": "https://archive.materialscloud.org/api/records/rcyfm-68h65/files/{name}/content",
+          "files": [
+            {
+              "path": "v1.0/SSSP_1.0_PBE_efficiency.json",
+              "md5": "685c4e04def7259eaabb385e94fa8d6b"
+            },
+            {
+              "path": "v1.0/SSSP_1.0_PBE_efficiency.tar.gz",
+              "md5": "0fc1ac970ab91c2b58aedccd3adb9699"
+            },
+            {
+              "path": "v1.1.2/SSSP_1.1.2_PBE_efficiency.json",
+              "md5": "e9a3544cbe0ba896bc60e1949d7efb51"
+            },
+            {
+              "path": "v1.1.2/SSSP_1.1.2_PBE_efficiency.tar.gz",
+              "md5": "7e5fd2c31c9513e9048eca74b91d259e"
+            },
+            {
+              "path": "v1.1.2/SSSP_1.1.2_PBE_precision.json",
+              "md5": "93db231f78b3d7d28a2bf9e6aa7a4704"
+            },
+            {
+              "path": "v1.1.2/SSSP_1.1.2_PBE_precision.tar.gz",
+              "md5": "a924a634ab08f83cef064a3ee97e8806"
+            },
+            {
+              "path": "v1.1.2/SSSP_1.1.2_PBEsol_efficiency.json",
+              "md5": "b4ff463d9e4dd109d179e5b19465e40e"
+            },
+            {
+              "path": "v1.1.2/SSSP_1.1.2_PBEsol_efficiency.tar.gz",
+              "md5": "a0314b0ebdc5a1e442a6eb4499b4c18a"
+            },
+            {
+              "path": "v1.1.2/SSSP_1.1.2_PBEsol_precision.json",
+              "md5": "8b6630d115243c4ba1ea15ec4b148e03"
+            },
+            {
+              "path": "v1.1.2/SSSP_1.1.2_PBEsol_precision.tar.gz",
+              "md5": "28f7963c2682e4ce71647fbcc5f4557a"
+            },
+            {
+              "path": "v1.2.1/SSSP_1.2.1_PBE_efficiency.json",
+              "md5": "3c82c98452f67ebfe593b1b66c7b5049"
+            },
+            {
+              "path": "v1.2.1/SSSP_1.2.1_PBE_efficiency.tar.gz",
+              "md5": "f8cc8b73c5736fca6a9a6cb14813db9b"
+            },
+            {
+              "path": "v1.2.1/SSSP_1.2.1_PBE_precision.json",
+              "md5": "37b27fa08ef2600fc068caba3a0b24c5"
+            },
+            {
+              "path": "v1.2.1/SSSP_1.2.1_PBE_precision.tar.gz",
+              "md5": "0aa3da64ed7b502210dec326e6d4c9a4"
+            },
+            {
+              "path": "v1.2.1/SSSP_1.2.1_PBEsol_efficiency.json",
+              "md5": "67440ab8839eb72890da94f3ae5f4fb3"
+            },
+            {
+              "path": "v1.2.1/SSSP_1.2.1_PBEsol_efficiency.tar.gz",
+              "md5": "a97ddf792431f18f2b76a4be2727c83f"
+            },
+            {
+              "path": "v1.2.1/SSSP_1.2.1_PBEsol_precision.json",
+              "md5": "922bc8377439c33226e0ce58183567ce"
+            },
+            {
+              "path": "v1.2.1/SSSP_1.2.1_PBEsol_precision.tar.gz",
+              "md5": "041c0e0c6a29044725361a873344b59e"
+            },
+            {
+              "path": "v1.3.0/SSSP_1.3.0_PBE_efficiency.json",
+              "md5": "3153c4b20fc90a44fba0236627525644"
+            },
+            {
+              "path": "v1.3.0/SSSP_1.3.0_PBE_efficiency.tar.gz",
+              "md5": "a58f1b3373f330179fd0832c48bb9a52"
+            },
+            {
+              "path": "v1.3.0/SSSP_1.3.0_PBE_precision.json",
+              "md5": "1692c5c9ce89e1c7c783f8f0eee0cbfa"
+            },
+            {
+              "path": "v1.3.0/SSSP_1.3.0_PBE_precision.tar.gz",
+              "md5": "fde94756886f32ada7bf597547557eb5"
+            },
+            {
+              "path": "v1.3.0/SSSP_1.3.0_PBEsol_efficiency.json",
+              "md5": "84fbbbd8f67b551abaec2f8a9df86801"
+            },
+            {
+              "path": "v1.3.0/SSSP_1.3.0_PBEsol_efficiency.tar.gz",
+              "md5": "b6cad0d97c86d3b43ae416d6e5d8b771"
+            },
+            {
+              "path": "v1.3.0/SSSP_1.3.0_PBEsol_precision.json",
+              "md5": "c355de4dc3a2067b34f257d01368322a"
+            },
+            {
+              "path": "v1.3.0/SSSP_1.3.0_PBEsol_precision.tar.gz",
+              "md5": "0d5c0daee544da3a5d1a1097115cf215"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "text": "SSSP v2.0, v0.7 and SSSP_1.0_plots.tar.gz have no known public download; they come from the potdex mirror only."
+        }
+      ]
+    },
+    "PSlibrary": {
+      "url": "https://pseudopotentials.quantum-espresso.org/legacy_tables/ps-library",
+      "license": "GPL-2.0-or-later",
+      "license_verified": false,
+      "upstream": [
+        {
+          "type": "script",
+          "script": "tools/fetch/download_pslibrary.py"
+        }
+      ]
+    },
+    "PseudoDOJO": {
+      "url": "https://www.pseudo-dojo.org",
+      "license": "CC BY 4.0",
+      "license_verified": false,
+      "upstream": [
+        {
+          "type": "script",
+          "script": "tools/fetch/download_pseudodojo.py"
+        }
+      ]
+    },
+    "Vanderbilt-USPP": {
+      "url": "https://www.physics.rutgers.edu/gbrv/",
+      "license": null,
+      "license_verified": false,
+      "upstream": [
+        {
+          "type": "script",
+          "script": "tools/fetch/download_vanderbilt_uspp.py"
+        }
+      ]
+    },
+    "PWmat": {
+      "url": "http://www.pwmat.com/pwmat-resource/pseduo-download/",
+      "license": null,
+      "license_verified": false,
+      "upstream": [
+        {
+          "type": "script",
+          "script": "tools/fetch/scrape_pwmat.py"
+        }
+      ]
+    },
+    "Rappe-group": {
+      "url": "https://www.sas.upenn.edu/rappegroup/research",
+      "license": null,
+      "license_verified": false,
+      "upstream": [
+        {
+          "type": "script",
+          "script": "tools/fetch/scrape_rappe_group.py"
+        },
+        {
+          "type": "script",
+          "script": "tools/fetch/reorganize_rappe_group.py"
+        }
+      ]
+    }
+  }
+}

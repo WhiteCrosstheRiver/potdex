@@ -60,8 +60,11 @@ out = {
         "versions": dict(versions),
     },
 }
+import os
 from pathlib import Path
-inv = Path(__file__).resolve().parents[2] / "raw" / "PSlibrary" / "metadata" / "pslibrary_inventory.json"
+
+RAW_DIR = Path(os.environ["POTDEX_RAW"]) if os.environ.get("POTDEX_RAW") else Path(__file__).resolve().parents[2] / "raw"
+inv = RAW_DIR / "PSlibrary" / "metadata" / "pslibrary_inventory.json"
 with open(inv, "w", encoding="utf-8") as f:
     json.dump(out, f, indent=2)
 print(f"\nWrote {inv}")

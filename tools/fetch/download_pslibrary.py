@@ -18,12 +18,15 @@ import sys
 import time
 import urllib.error
 import urllib.request
+import os
 from pathlib import Path
+
+RAW_DIR = Path(os.environ["POTDEX_RAW"]) if os.environ.get("POTDEX_RAW") else Path(__file__).resolve().parents[2] / "raw"
 
 BASE_URL = "https://pseudopotentials.quantum-espresso.org"
 UPF_URL = f"{BASE_URL}/upf_files"
 TABLE_URL = f"{BASE_URL}/legacy_tables/ps-library"
-BASE_DIR = Path(__file__).resolve().parents[2] / "raw" / "PSlibrary"
+BASE_DIR = RAW_DIR / "PSlibrary"
 META_DIR = BASE_DIR / "metadata"
 PSL_100_DIR = BASE_DIR / "psl-1.0.0"
 LEGACY_DIR = BASE_DIR / "legacy"

@@ -7,10 +7,13 @@ import sys
 import tarfile
 import urllib.error
 import urllib.request
+import os
 from pathlib import Path
 
+RAW_DIR = Path(os.environ["POTDEX_RAW"]) if os.environ.get("POTDEX_RAW") else Path(__file__).resolve().parents[2] / "raw"
+
 BASE_URL = "https://www.pseudo-dojo.org"
-BASE_DIR = Path(__file__).resolve().parents[2] / "raw" / "PseudoDOJO"
+BASE_DIR = RAW_DIR / "PseudoDOJO"
 PP_FORMATS = {"upf", "psp8", "psml", "xml"}
 
 

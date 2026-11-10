@@ -2,15 +2,12 @@
   "library": "PSlibrary",
   "path": "raw/PSlibrary",
   "url": "https://pseudopotentials.quantum-espresso.org/legacy_tables/ps-library",
-  "kind": "http",
   "license": "GPL-2.0-or-later",
   "license_verified": false,
-  "fetch": "tools/fetch/download_pslibrary.py",
   "git": null,
   "files": 1425,
   "bytes": 3746828594,
-  "newest_file_mtime": "2026-11-10",
   "manifest": "PSlibrary.sha256",
   "manifest_sha256": "ed8d28dc8041bf34aac58567d21d3555c0f458e0edf99a52fb65adeb28304bc1",
-  "recorded_at": "2026-11-10T12:39:22+00:00"
+  "recorded_at": "2026-11-10T13:19:46+00:00"
 }

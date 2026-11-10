@@ -6,10 +6,13 @@ import re
 import sys
 import urllib.error
 import urllib.request
+import os
 from pathlib import Path
 
+RAW_DIR = Path(os.environ["POTDEX_RAW"]) if os.environ.get("POTDEX_RAW") else Path(__file__).resolve().parents[2] / "raw"
+
 BASE_URL = "https://www.physics.rutgers.edu/gbrv/"
-ROOT = Path(__file__).resolve().parents[2] / "raw" / "Vanderbilt-USPP" / "GBRV-v1.5"
+ROOT = RAW_DIR / "Vanderbilt-USPP" / "GBRV-v1.5"
 PRODUCTION_FMT = "upf"
 ARCHIVE_FORMATS = {"uspp", "paw", "paw-xml"}
 

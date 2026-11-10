@@ -12,7 +12,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from common import CATALOG, METADATA, ROOT, write_json
+from common import resolve_catalog_path, CATALOG, METADATA, ROOT, write_json
 from families import FAMILIES, FAMILY_BY_ID, family_covers, pick_family_elements
 
 
@@ -129,7 +129,7 @@ def materialize_output(plan: dict, output: Path) -> None:
     pp_dir.mkdir(parents=True, exist_ok=True)
 
     for el, info in plan["elements"].items():
-        src = ROOT / info["source_path"]
+        src = resolve_catalog_path(info["source_path"])
         dest = pp_dir / f"{el}.upf"
         if src.exists():
             try:

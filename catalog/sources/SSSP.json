@@ -1,16 +1,13 @@
 {
   "library": "SSSP",
   "path": "raw/SSSP",
-  "url": "https://www.materialscloud.org/discover/sssp",
-  "kind": "http",
-  "license": "per-pseudopotential (see SSSP metadata)",
-  "license_verified": false,
-  "fetch": "tools/download_sssp.py",
+  "url": "https://archive.materialscloud.org/records/rcyfm-68h65",
+  "license": "CC BY 4.0 (record); individual pseudopotentials keep their own licences",
+  "license_verified": true,
   "git": null,
   "files": 414,
-  "bytes": 1802319440,
-  "newest_file_mtime": "2026-11-10",
+  "bytes": 1832337145,
   "manifest": "SSSP.sha256",
-  "manifest_sha256": "4568ac8a299d3749a7d2d2530d35dc1398877b1a3f757ad5f01195e854f0d4a6",
-  "recorded_at": "2026-11-10T12:43:05+00:00"
+  "manifest_sha256": "4103ac123fde50ce3c28303a089b0b2bb0b4cbaf616e473b050f00857a7f8a0e",
+  "recorded_at": "2026-11-10T13:19:54+00:00"
 }

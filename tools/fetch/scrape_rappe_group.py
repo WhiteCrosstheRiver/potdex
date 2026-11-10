@@ -12,10 +12,13 @@ import sys
 import time
 import urllib.error
 import urllib.request
+import os
 from pathlib import Path
 
+RAW_DIR = Path(os.environ["POTDEX_RAW"]) if os.environ.get("POTDEX_RAW") else Path(__file__).resolve().parents[2] / "raw"
+
 BASE_URL = "https://www.sas.upenn.edu/rappegroup/research"
-ROOT_DIR = Path(__file__).resolve().parents[2] / "raw" / "Rappe-group"
+ROOT_DIR = RAW_DIR / "Rappe-group"
 
 PP_EXTENSIONS = {".fhi", ".param", ".rpt"}
 

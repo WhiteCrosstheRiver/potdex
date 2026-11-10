@@ -14,3 +14,6 @@
 __pycache__/
 *.pyc
 *.part
+
+# Mirror assets built by tools/pack_mirror.py (uploaded to GitHub Releases, not committed)
+/dist/

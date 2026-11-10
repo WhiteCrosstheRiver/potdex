@@ -2,15 +2,12 @@
   "library": "PWmat",
   "path": "raw/PWmat",
   "url": "http://www.pwmat.com/pwmat-resource/pseduo-download/",
-  "kind": "http",
   "license": null,
   "license_verified": false,
-  "fetch": "tools/fetch/scrape_pwmat.py",
   "git": null,
   "files": 681,
   "bytes": 218383696,
-  "newest_file_mtime": "2026-11-10",
   "manifest": "PWmat.sha256",
   "manifest_sha256": "d517368efa49aac5ef5e4f40ce6a335aa694c828ed065653d8e294df5dbf1fec",
-  "recorded_at": "2026-11-10T12:39:23+00:00"
+  "recorded_at": "2026-11-10T13:19:47+00:00"
 }

@@ -9,7 +9,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from common import CATALOG, MANIFESTS, METADATA, ROOT, write_json
+from common import resolve_catalog_path, CATALOG, MANIFESTS, METADATA, ROOT, write_json
 
 
 def load_jsonl(path: Path) -> list[dict]:
@@ -62,7 +62,7 @@ def main() -> int:
         errors.append("deprecated mixed soc_pbe.json still present — remove it")
 
     for row in rows:
-        src = ROOT / row["source_path"]
+        src = resolve_catalog_path(row["source_path"])
         if not src.exists():
             errors.append(f"missing source: {row['source_path']}")
 

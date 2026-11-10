@@ -2,15 +2,12 @@
   "library": "Rappe-group",
   "path": "raw/Rappe-group",
   "url": "https://www.sas.upenn.edu/rappegroup/research",
-  "kind": "http",
   "license": null,
   "license_verified": false,
-  "fetch": "tools/fetch/scrape_rappe_group.py",
   "git": null,
   "files": 240,
   "bytes": 27288701,
-  "newest_file_mtime": "2026-11-10",
   "manifest": "Rappe-group.sha256",
   "manifest_sha256": "1915bc7ac93787c7b9c5d595fe03f96f111bc64656bb83d1061f68d564572347",
-  "recorded_at": "2026-11-10T12:39:42+00:00"
+  "recorded_at": "2026-11-10T13:19:52+00:00"
 }

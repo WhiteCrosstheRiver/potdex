@@ -7,11 +7,14 @@ import json
 import shutil
 import sys
 from dataclasses import dataclass, asdict
+import os
 from pathlib import Path
 
+RAW_DIR = Path(os.environ["POTDEX_RAW"]) if os.environ.get("POTDEX_RAW") else Path(__file__).resolve().parents[2] / "raw"
+
 ROOT = Path(__file__).resolve().parents[2]
-OLD_LIB = ROOT / "raw" / "GBRV" / "v1.5"
-CANONICAL = ROOT / "raw" / "Vanderbilt-USPP" / "GBRV-v1.5"
+OLD_LIB = RAW_DIR / "GBRV" / "v1.5"
+CANONICAL = RAW_DIR / "Vanderbilt-USPP" / "GBRV-v1.5"
 PRODUCTION_FMT = "upf"
 ARCHIVE_FORMATS = {"uspp", "paw", "paw-xml"}
 FORMAT_ALIASES = {"xml": "paw-xml"}

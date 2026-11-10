@@ -2,15 +2,12 @@
   "library": "SG15-ONCV",
   "path": "raw/SG15-ONCV",
   "url": "http://www.quantum-simulation.org/potentials/sg15_oncv/",
-  "kind": "http",
   "license": "CC BY-SA 4.0",
   "license_verified": false,
-  "fetch": null,
   "git": null,
   "files": 380,
   "bytes": 68969198,
-  "newest_file_mtime": "2026-11-10",
   "manifest": "SG15-ONCV.sha256",
   "manifest_sha256": "4b40a3584de0796c10e1ed7f57b64f796d7408315e94051d7478d549a73ead4e",
-  "recorded_at": "2026-11-10T12:39:43+00:00"
+  "recorded_at": "2026-11-10T13:19:52+00:00"
 }

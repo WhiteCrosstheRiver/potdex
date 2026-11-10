@@ -2,3 +2,4 @@
 *.ps1 text eol=crlf
 *.gz binary
 *.tgz binary
+*.sh text eol=lf

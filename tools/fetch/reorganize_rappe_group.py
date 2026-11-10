@@ -12,9 +12,12 @@ import json
 import re
 import shutil
 from datetime import datetime, timezone
+import os
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[2] / "raw" / "Rappe-group"
+RAW_DIR = Path(os.environ["POTDEX_RAW"]) if os.environ.get("POTDEX_RAW") else Path(__file__).resolve().parents[2] / "raw"
+
+ROOT = RAW_DIR / "Rappe-group"
 METADATA = ROOT / "metadata"
 
 LEGACY_BUCKETS = {

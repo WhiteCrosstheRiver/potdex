@@ -11,7 +11,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from common import CATALOG, METADATA, ROOT, write_json
+from common import resolve_catalog_path, CATALOG, METADATA, ROOT, write_json
 from families import FAMILIES, pick_family_elements
 
 
@@ -97,7 +97,7 @@ def main() -> int:
         methods: dict[str, int] = {}
         linked = 0
         for el, info in manifest["elements"].items():
-            src = ROOT / info["source_path"]
+            src = resolve_catalog_path(info["source_path"])
             if not src.exists():
                 continue
             if spec.family_id == "ofdft_blps_gga":

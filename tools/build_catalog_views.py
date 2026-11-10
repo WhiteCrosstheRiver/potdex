@@ -11,7 +11,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from common import CATALOG, MANIFESTS, METADATA, ROOT, write_json
+from common import resolve_catalog_path, CATALOG, MANIFESTS, METADATA, ROOT, write_json
 
 
 def load_jsonl(path: Path) -> list[dict]:
@@ -96,7 +96,7 @@ def build_element_views(rows: list[dict]) -> dict:
         el = row.get("element")
         if not el:
             continue
-        src = ROOT / row["source_path"]
+        src = resolve_catalog_path(row["source_path"])
         if not src.exists():
             continue
         lib = row["library_id"]
