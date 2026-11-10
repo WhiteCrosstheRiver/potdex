@@ -13,18 +13,18 @@ from pp_parser import parse_blps, parse_upf
 
 def collect_pp_files() -> list[Path]:
     patterns = [
-        "PSlibrary/**/*.UPF",
-        "PSlibrary/**/*.upf",
-        "PseudoDOJO/**/*.upf",
-        "Vanderbilt-USPP/**/*.UPF",
-        "Vanderbilt-USPP/**/*.upf",
-        "PWmat/**/*.UPF",
-        "PWmat/**/*.upf",
-        "SG15-ONCV/**/*.upf",
-        "SSSP/**/*.upf",
-        "pseudos_ac_she/**/*.upf",
-        "BLPSLibrary/**/*.psp",
-        "BLPSLibrary/**/*.lps",
+        "raw/PSlibrary/**/*.UPF",
+        "raw/PSlibrary/**/*.upf",
+        "raw/PseudoDOJO/**/*.upf",
+        "raw/Vanderbilt-USPP/**/*.UPF",
+        "raw/Vanderbilt-USPP/**/*.upf",
+        "raw/PWmat/**/*.UPF",
+        "raw/PWmat/**/*.upf",
+        "raw/SG15-ONCV/**/*.upf",
+        "raw/SSSP/**/*.upf",
+        "raw/pseudos_ac_she/**/*.upf",
+        "raw/BLPSLibrary/**/*.psp",
+        "raw/BLPSLibrary/**/*.lps",
     ]
     files: list[Path] = []
     for pat in patterns:

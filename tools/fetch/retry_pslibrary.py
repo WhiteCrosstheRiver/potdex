@@ -6,7 +6,7 @@ from pathlib import Path
 
 from download_pslibrary import download_upf
 
-BASE = Path(__file__).resolve().parents[2] / "PSlibrary"
+BASE = Path(__file__).resolve().parents[2] / "raw" / "PSlibrary"
 summary = json.loads((BASE / "metadata/download_summary.json").read_text(encoding="utf-8"))
 
 retry = [

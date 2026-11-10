@@ -1,0 +1,16 @@
+{
+  "library": "Vanderbilt-USPP",
+  "path": "raw/Vanderbilt-USPP",
+  "url": "https://www.physics.rutgers.edu/gbrv/",
+  "kind": "http",
+  "license": null,
+  "license_verified": false,
+  "fetch": "tools/fetch/download_vanderbilt_uspp.py",
+  "git": null,
+  "files": 578,
+  "bytes": 255017361,
+  "newest_file_mtime": "2026-11-10",
+  "manifest": "Vanderbilt-USPP.sha256",
+  "manifest_sha256": "76937016edce24515cdad5a2b209ac258440e17d9a349c34b57d9e1bf6a8f690",
+  "recorded_at": "2026-11-10T12:39:47+00:00"
+}

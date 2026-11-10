@@ -16,7 +16,7 @@
   "elements": {
     "Al": {
       "filename": "al.gga.psp",
-      "source_path": "BLPSLibrary/GGA/real/al.gga.psp",
+      "source_path": "raw/BLPSLibrary/GGA/real/al.gga.psp",
       "id": "blps:Al:al.gga.psp",
       "formalism": "LOCAL",
       "xc_functional": "GGA",
@@ -28,7 +28,7 @@
     },
     "As": {
       "filename": "as.gga.psp",
-      "source_path": "BLPSLibrary/GGA/real/as.gga.psp",
+      "source_path": "raw/BLPSLibrary/GGA/real/as.gga.psp",
       "id": "blps:As:as.gga.psp",
       "formalism": "LOCAL",
       "xc_functional": "GGA",
@@ -40,7 +40,7 @@
     },
     "Ga": {
       "filename": "ga.gga.psp",
-      "source_path": "BLPSLibrary/GGA/real/ga.gga.psp",
+      "source_path": "raw/BLPSLibrary/GGA/real/ga.gga.psp",
       "id": "blps:Ga:ga.gga.psp",
       "formalism": "LOCAL",
       "xc_functional": "GGA",
@@ -52,7 +52,7 @@
     },
     "In": {
       "filename": "in.gga.psp",
-      "source_path": "BLPSLibrary/GGA/real/in.gga.psp",
+      "source_path": "raw/BLPSLibrary/GGA/real/in.gga.psp",
       "id": "blps:In:in.gga.psp",
       "formalism": "LOCAL",
       "xc_functional": "GGA",
@@ -64,7 +64,7 @@
     },
     "Mg": {
       "filename": "mg.gga.psp",
-      "source_path": "BLPSLibrary/GGA/real/mg.gga.psp",
+      "source_path": "raw/BLPSLibrary/GGA/real/mg.gga.psp",
       "id": "blps:Mg:mg.gga.psp",
       "formalism": "LOCAL",
       "xc_functional": "GGA",
@@ -76,7 +76,7 @@
     },
     "P": {
       "filename": "p.gga.psp",
-      "source_path": "BLPSLibrary/GGA/real/p.gga.psp",
+      "source_path": "raw/BLPSLibrary/GGA/real/p.gga.psp",
       "id": "blps:P:p.gga.psp",
       "formalism": "LOCAL",
       "xc_functional": "GGA",
@@ -88,7 +88,7 @@
     },
     "Sb": {
       "filename": "sb.gga.psp",
-      "source_path": "BLPSLibrary/GGA/real/sb.gga.psp",
+      "source_path": "raw/BLPSLibrary/GGA/real/sb.gga.psp",
       "id": "blps:Sb:sb.gga.psp",
       "formalism": "LOCAL",
       "xc_functional": "GGA",
@@ -100,7 +100,7 @@
     },
     "Si": {
       "filename": "si.gga.psp",
-      "source_path": "BLPSLibrary/GGA/real/si.gga.psp",
+      "source_path": "raw/BLPSLibrary/GGA/real/si.gga.psp",
       "id": "blps:Si:si.gga.psp",
       "formalism": "LOCAL",
       "xc_functional": "GGA",

@@ -61,7 +61,7 @@ out = {
     },
 }
 from pathlib import Path
-inv = Path(__file__).resolve().parents[2] / "PSlibrary" / "metadata" / "pslibrary_inventory.json"
+inv = Path(__file__).resolve().parents[2] / "raw" / "PSlibrary" / "metadata" / "pslibrary_inventory.json"
 with open(inv, "w", encoding="utf-8") as f:
     json.dump(out, f, indent=2)
 print(f"\nWrote {inv}")

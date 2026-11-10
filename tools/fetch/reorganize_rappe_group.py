@@ -14,7 +14,7 @@ import shutil
 from datetime import datetime, timezone
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[2] / "Rappe-group"
+ROOT = Path(__file__).resolve().parents[2] / "raw" / "Rappe-group"
 METADATA = ROOT / "metadata"
 
 LEGACY_BUCKETS = {
@@ -201,15 +201,15 @@ def build_summary(inventory: list[dict]) -> dict:
     files = list(ROOT.rglob("*"))
     file_count = sum(1 for p in files if p.is_file() and "metadata" not in p.parts)
     return {
-        "canonical_root": "Rappe-group",
+        "canonical_root": "raw/Rappe-group",
         "source": "https://www.sas.upenn.edu/rappegroup/research/pseudo-potential-gga.html",
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "production_format": None,
-        "production_path": "Rappe-group/abacus/upf/{Element}/",
+        "production_path": "raw/Rappe-group/abacus/upf/{Element}/",
         "upstream_format": "fhi",
-        "upstream_path": "Rappe-group/{functional}/upstream/fhi/{Element}/",
+        "upstream_path": "raw/Rappe-group/{functional}/upstream/fhi/{Element}/",
         "source_only_formats": ["param", "rpt"],
-        "source_only_path": "Rappe-group/{functional}/source-only/{format}/{Element}/",
+        "source_only_path": "raw/Rappe-group/{functional}/source-only/{format}/{Element}/",
         "abacus_active_files": 0,
         "upstream_files": sum(1 for e in inventory if "fhi" in e["files"]),
         "source_only_files": sum(

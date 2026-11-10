@@ -23,7 +23,7 @@ from pathlib import Path
 BASE_URL = "https://pseudopotentials.quantum-espresso.org"
 UPF_URL = f"{BASE_URL}/upf_files"
 TABLE_URL = f"{BASE_URL}/legacy_tables/ps-library"
-BASE_DIR = Path(__file__).resolve().parents[2] / "PSlibrary"
+BASE_DIR = Path(__file__).resolve().parents[2] / "raw" / "PSlibrary"
 META_DIR = BASE_DIR / "metadata"
 PSL_100_DIR = BASE_DIR / "psl-1.0.0"
 LEGACY_DIR = BASE_DIR / "legacy"

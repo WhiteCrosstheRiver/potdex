@@ -11,6 +11,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from common import (
     LIBRARIES_META,
+    RAW,
     ROOT,
     element_from_filename,
     element_from_sssp_filename,
@@ -65,7 +66,7 @@ def make_entry(
 def scan_pslibrary() -> tuple[dict, list[dict]]:
     entries: list[dict] = []
     for bucket in ("psl-1.0.0", "legacy"):
-        root = ROOT / "PSlibrary" / bucket
+        root = RAW / "PSlibrary" / bucket
         if not root.exists():
             continue
         for path in sorted(root.rglob("*.UPF")):
@@ -74,7 +75,7 @@ def scan_pslibrary() -> tuple[dict, list[dict]]:
             )
     summary = {
         "library_id": "pslibrary",
-        "canonical_root": "PSlibrary",
+        "canonical_root": "raw/PSlibrary",
         "source_url": "https://pseudopotentials.quantum-espresso.org/legacy_tables/ps-library",
         "pp_family": "mixed",
         "abacus_formats": ["UPF"],
@@ -85,7 +86,7 @@ def scan_pslibrary() -> tuple[dict, list[dict]]:
 
 def scan_pseudodojo() -> tuple[dict, list[dict]]:
     entries: list[dict] = []
-    root = ROOT / "PseudoDOJO/pseudos"
+    root = RAW / "PseudoDOJO/pseudos"
     for path in sorted(root.rglob("*.upf")):
         dataset = path.parent.name
         entries.append(
@@ -93,7 +94,7 @@ def scan_pseudodojo() -> tuple[dict, list[dict]]:
         )
     summary = {
         "library_id": "pseudodojo",
-        "canonical_root": "PseudoDOJO/pseudos",
+        "canonical_root": "raw/PseudoDOJO/pseudos",
         "source_url": "https://www.pseudo-dojo.org/",
         "pp_family": "NC",
         "abacus_formats": ["UPF"],
@@ -105,7 +106,7 @@ def scan_pseudodojo() -> tuple[dict, list[dict]]:
 def scan_gbrv() -> tuple[dict, list[dict]]:
     entries: list[dict] = []
     for sub, role in (("upf", "production"), ("archive", "archive")):
-        root = ROOT / "Vanderbilt-USPP/GBRV-v1.5" / sub
+        root = RAW / "Vanderbilt-USPP/GBRV-v1.5" / sub
         if not root.exists():
             continue
         for path in sorted(root.rglob("*")):
@@ -121,7 +122,7 @@ def scan_gbrv() -> tuple[dict, list[dict]]:
             )
     summary = {
         "library_id": "gbrv",
-        "canonical_root": "Vanderbilt-USPP/GBRV-v1.5",
+        "canonical_root": "raw/Vanderbilt-USPP/GBRV-v1.5",
         "source_url": "https://www.physics.rutgers.edu/gbrv/",
         "pp_family": "USPP",
         "abacus_formats": ["UPF"],
@@ -132,7 +133,7 @@ def scan_gbrv() -> tuple[dict, list[dict]]:
 
 def scan_pwmat() -> tuple[dict, list[dict]]:
     entries: list[dict] = []
-    root = ROOT / "PWmat"
+    root = RAW / "PWmat"
     for path in sorted(root.rglob("*.UPF")) + sorted(root.rglob("*.upf")):
         rel = path.relative_to(root)
         dataset = rel.parts[0] if rel.parts else None
@@ -141,7 +142,7 @@ def scan_pwmat() -> tuple[dict, list[dict]]:
         )
     summary = {
         "library_id": "pwmat",
-        "canonical_root": "PWmat",
+        "canonical_root": "raw/PWmat",
         "source_url": "http://www.pwmat.com/potential-download",
         "pp_family": "NC",
         "abacus_formats": ["UPF"],
@@ -152,12 +153,12 @@ def scan_pwmat() -> tuple[dict, list[dict]]:
 
 def scan_sg15() -> tuple[dict, list[dict]]:
     entries: list[dict] = []
-    root = ROOT / "SG15-ONCV/upf"
+    root = RAW / "SG15-ONCV/upf"
     for path in sorted(root.glob("*.upf")):
         entries.append(make_entry(library_id="sg15_oncv", path=path, role="production"))
     summary = {
         "library_id": "sg15_oncv",
-        "canonical_root": "SG15-ONCV/upf",
+        "canonical_root": "raw/SG15-ONCV/upf",
         "source_url": "http://www.quantum-simulation.org/potentials/sg15_oncv/",
         "pp_family": "NC",
         "abacus_formats": ["UPF"],
@@ -168,7 +169,7 @@ def scan_sg15() -> tuple[dict, list[dict]]:
 
 def scan_sssp() -> tuple[dict, list[dict]]:
     entries: list[dict] = []
-    for set_dir in sorted((ROOT / "SSSP/v2.0").glob("*_*/upf")):
+    for set_dir in sorted((RAW / "SSSP/v2.0").glob("*_*/upf")):
         dataset = set_dir.parent.name
         for path in sorted(set_dir.glob("*.upf")):
             entries.append(
@@ -176,7 +177,7 @@ def scan_sssp() -> tuple[dict, list[dict]]:
             )
     summary = {
         "library_id": "sssp",
-        "canonical_root": "SSSP/v2.0",
+        "canonical_root": "raw/SSSP/v2.0",
         "source_url": "https://sssp.materialscloud.org/",
         "pp_family": "mixed",
         "abacus_formats": ["UPF"],
@@ -187,7 +188,7 @@ def scan_sssp() -> tuple[dict, list[dict]]:
 
 def scan_pseudos_ac_she() -> tuple[dict, list[dict]]:
     entries: list[dict] = []
-    root = ROOT / "pseudos_ac_she"
+    root = RAW / "pseudos_ac_she"
     for path in sorted(root.rglob("*.upf")):
         parts = path.relative_to(root).parts
         dataset = parts[0] if parts else None
@@ -201,7 +202,7 @@ def scan_pseudos_ac_she() -> tuple[dict, list[dict]]:
         )
     summary = {
         "library_id": "pseudos_ac_she",
-        "canonical_root": "pseudos_ac_she",
+        "canonical_root": "raw/pseudos_ac_she",
         "source_url": "https://github.com/gmatteo/pseudos_ac_she",
         "pp_family": "NC",
         "automatic_recommendation": False,
@@ -213,12 +214,12 @@ def scan_pseudos_ac_she() -> tuple[dict, list[dict]]:
 
 def scan_rappe() -> tuple[dict, list[dict]]:
     entries: list[dict] = []
-    inv_path = ROOT / "Rappe-group/metadata/inventory.json"
+    inv_path = RAW / "Rappe-group/metadata/inventory.json"
     if inv_path.exists():
         inventory = json.loads(inv_path.read_text(encoding="utf-8"))
         for bundle in inventory:
             for ext, rel in bundle.get("files", {}).items():
-                path = ROOT / "Rappe-group" / rel.replace("/", "\\")
+                path = RAW / "Rappe-group" / rel
                 if not path.exists():
                     continue
                 role = "upstream" if ext == "fhi" else "source_only"
@@ -233,7 +234,7 @@ def scan_rappe() -> tuple[dict, list[dict]]:
                 )
     summary = {
         "library_id": "rappe",
-        "canonical_root": "Rappe-group",
+        "canonical_root": "raw/Rappe-group",
         "source_url": "https://www.sas.upenn.edu/rappegroup/research/pseudo-potential-gga.html",
         "pp_family": "FHI",
         "abacus_formats": [],
@@ -244,7 +245,7 @@ def scan_rappe() -> tuple[dict, list[dict]]:
 
 def scan_blps() -> tuple[dict, list[dict]]:
     entries: list[dict] = []
-    root = ROOT / "BLPSLibrary"
+    root = RAW / "BLPSLibrary"
     for path in sorted(root.rglob("*.psp")) + sorted(root.rglob("*.lps")):
         parts = path.relative_to(root).parts
         dataset = "/".join(parts[:-1]) if len(parts) > 1 else None
@@ -253,7 +254,7 @@ def scan_blps() -> tuple[dict, list[dict]]:
         )
     summary = {
         "library_id": "blps",
-        "canonical_root": "BLPSLibrary",
+        "canonical_root": "raw/BLPSLibrary",
         "source_url": "https://github.com/PrincetonUniversity/BLPSLibrary",
         "pp_family": "BLPS",
         "abacus_formats": ["BLPS"],

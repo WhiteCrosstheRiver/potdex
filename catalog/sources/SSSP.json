@@ -1,0 +1,16 @@
+{
+  "library": "SSSP",
+  "path": "raw/SSSP",
+  "url": "https://www.materialscloud.org/discover/sssp",
+  "kind": "http",
+  "license": "per-pseudopotential (see SSSP metadata)",
+  "license_verified": false,
+  "fetch": "tools/download_sssp.py",
+  "git": null,
+  "files": 414,
+  "bytes": 1802319440,
+  "newest_file_mtime": "2026-11-10",
+  "manifest": "SSSP.sha256",
+  "manifest_sha256": "4568ac8a299d3749a7d2d2530d35dc1398877b1a3f757ad5f01195e854f0d4a6",
+  "recorded_at": "2026-11-10T12:43:05+00:00"
+}

@@ -17,7 +17,7 @@
   "elements": {
     "Ag": {
       "filename": "Ag_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Ag_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Ag_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Ag:Ag_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -29,7 +29,7 @@
     },
     "Al": {
       "filename": "Al_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Al_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Al_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Al:Al_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -41,7 +41,7 @@
     },
     "Ar": {
       "filename": "Ar_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Ar_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Ar_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Ar:Ar_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -53,7 +53,7 @@
     },
     "As": {
       "filename": "As_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/As_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/As_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:As:As_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -65,7 +65,7 @@
     },
     "Au": {
       "filename": "Au_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Au_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Au_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Au:Au_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -77,7 +77,7 @@
     },
     "B": {
       "filename": "B_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/B_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/B_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:B:B_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -89,7 +89,7 @@
     },
     "Ba": {
       "filename": "Ba_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Ba_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Ba_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Ba:Ba_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -101,7 +101,7 @@
     },
     "Be": {
       "filename": "Be_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Be_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Be_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Be:Be_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -113,7 +113,7 @@
     },
     "Bi": {
       "filename": "Bi_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Bi_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Bi_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Bi:Bi_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -125,7 +125,7 @@
     },
     "Br": {
       "filename": "Br_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Br_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Br_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Br:Br_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -137,7 +137,7 @@
     },
     "C": {
       "filename": "C_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/C_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/C_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:C:C_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -149,7 +149,7 @@
     },
     "Ca": {
       "filename": "Ca_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Ca_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Ca_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Ca:Ca_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -161,7 +161,7 @@
     },
     "Cd": {
       "filename": "Cd_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Cd_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Cd_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Cd:Cd_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -173,7 +173,7 @@
     },
     "Cl": {
       "filename": "Cl_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Cl_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Cl_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Cl:Cl_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -185,7 +185,7 @@
     },
     "Co": {
       "filename": "Co_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Co_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Co_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Co:Co_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -197,7 +197,7 @@
     },
     "Cr": {
       "filename": "Cr_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Cr_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Cr_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Cr:Cr_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -209,7 +209,7 @@
     },
     "Cs": {
       "filename": "Cs_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Cs_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Cs_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Cs:Cs_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -221,7 +221,7 @@
     },
     "Cu": {
       "filename": "Cu_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Cu_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Cu_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Cu:Cu_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -233,7 +233,7 @@
     },
     "F": {
       "filename": "F_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/F_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/F_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:F:F_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -245,7 +245,7 @@
     },
     "Fe": {
       "filename": "Fe_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Fe_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Fe_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Fe:Fe_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -257,7 +257,7 @@
     },
     "Ga": {
       "filename": "Ga_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Ga_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Ga_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Ga:Ga_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -269,7 +269,7 @@
     },
     "Ge": {
       "filename": "Ge_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Ge_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Ge_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Ge:Ge_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -281,7 +281,7 @@
     },
     "H": {
       "filename": "H_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/H_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/H_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:H:H_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -293,7 +293,7 @@
     },
     "He": {
       "filename": "He_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/He_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/He_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:He:He_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -305,7 +305,7 @@
     },
     "Hf": {
       "filename": "Hf_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Hf_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Hf_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Hf:Hf_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -317,7 +317,7 @@
     },
     "Hg": {
       "filename": "Hg_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Hg_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Hg_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Hg:Hg_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -329,7 +329,7 @@
     },
     "I": {
       "filename": "I_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/I_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/I_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:I:I_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -341,7 +341,7 @@
     },
     "In": {
       "filename": "In_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/In_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/In_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:In:In_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -353,7 +353,7 @@
     },
     "Ir": {
       "filename": "Ir_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Ir_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Ir_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Ir:Ir_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -365,7 +365,7 @@
     },
     "K": {
       "filename": "K_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/K_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/K_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:K:K_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -377,7 +377,7 @@
     },
     "Kr": {
       "filename": "Kr_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Kr_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Kr_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Kr:Kr_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -389,7 +389,7 @@
     },
     "La": {
       "filename": "La_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/La_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/La_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:La:La_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -401,7 +401,7 @@
     },
     "Li": {
       "filename": "Li_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Li_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Li_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Li:Li_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -413,7 +413,7 @@
     },
     "Mg": {
       "filename": "Mg_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Mg_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Mg_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Mg:Mg_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -425,7 +425,7 @@
     },
     "Mn": {
       "filename": "Mn_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Mn_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Mn_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Mn:Mn_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -437,7 +437,7 @@
     },
     "Mo": {
       "filename": "Mo_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Mo_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Mo_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Mo:Mo_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -449,7 +449,7 @@
     },
     "N": {
       "filename": "N_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/N_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/N_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:N:N_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -461,7 +461,7 @@
     },
     "Na": {
       "filename": "Na_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Na_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Na_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Na:Na_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -473,7 +473,7 @@
     },
     "Nb": {
       "filename": "Nb_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Nb_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Nb_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Nb:Nb_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -485,7 +485,7 @@
     },
     "Ne": {
       "filename": "Ne_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Ne_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Ne_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Ne:Ne_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -497,7 +497,7 @@
     },
     "Ni": {
       "filename": "Ni_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Ni_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Ni_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Ni:Ni_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -509,7 +509,7 @@
     },
     "O": {
       "filename": "O_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/O_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/O_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:O:O_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -521,7 +521,7 @@
     },
     "Os": {
       "filename": "Os_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Os_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Os_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Os:Os_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -533,7 +533,7 @@
     },
     "P": {
       "filename": "P_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/P_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/P_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:P:P_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -545,7 +545,7 @@
     },
     "Pb": {
       "filename": "Pb_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Pb_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Pb_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Pb:Pb_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -557,7 +557,7 @@
     },
     "Pd": {
       "filename": "Pd_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Pd_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Pd_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Pd:Pd_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -569,7 +569,7 @@
     },
     "Pt": {
       "filename": "Pt_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Pt_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Pt_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Pt:Pt_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -581,7 +581,7 @@
     },
     "Rb": {
       "filename": "Rb_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Rb_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Rb_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Rb:Rb_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -593,7 +593,7 @@
     },
     "Re": {
       "filename": "Re_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Re_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Re_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Re:Re_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -605,7 +605,7 @@
     },
     "Rh": {
       "filename": "Rh_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Rh_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Rh_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Rh:Rh_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -617,7 +617,7 @@
     },
     "Ru": {
       "filename": "Ru_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Ru_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Ru_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Ru:Ru_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -629,7 +629,7 @@
     },
     "S": {
       "filename": "S_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/S_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/S_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:S:S_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -641,7 +641,7 @@
     },
     "Sb": {
       "filename": "Sb_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Sb_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Sb_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Sb:Sb_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -653,7 +653,7 @@
     },
     "Sc": {
       "filename": "Sc_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Sc_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Sc_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Sc:Sc_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -665,7 +665,7 @@
     },
     "Se": {
       "filename": "Se_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Se_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Se_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Se:Se_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -677,7 +677,7 @@
     },
     "Si": {
       "filename": "Si_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Si_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Si_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Si:Si_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -689,7 +689,7 @@
     },
     "Sn": {
       "filename": "Sn_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Sn_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Sn_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Sn:Sn_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -701,7 +701,7 @@
     },
     "Sr": {
       "filename": "Sr_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Sr_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Sr_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Sr:Sr_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -713,7 +713,7 @@
     },
     "Ta": {
       "filename": "Ta_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Ta_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Ta_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Ta:Ta_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -725,7 +725,7 @@
     },
     "Tc": {
       "filename": "Tc_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Tc_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Tc_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Tc:Tc_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -737,7 +737,7 @@
     },
     "Te": {
       "filename": "Te_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Te_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Te_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Te:Te_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -749,7 +749,7 @@
     },
     "Ti": {
       "filename": "Ti_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Ti_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Ti_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Ti:Ti_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -761,7 +761,7 @@
     },
     "Tl": {
       "filename": "Tl_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Tl_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Tl_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Tl:Tl_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -773,7 +773,7 @@
     },
     "V": {
       "filename": "V_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/V_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/V_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:V:V_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -785,7 +785,7 @@
     },
     "W": {
       "filename": "W_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/W_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/W_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:W:W_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -797,7 +797,7 @@
     },
     "Xe": {
       "filename": "Xe_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Xe_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Xe_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Xe:Xe_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -809,7 +809,7 @@
     },
     "Y": {
       "filename": "Y_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Y_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Y_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Y:Y_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -821,7 +821,7 @@
     },
     "Zn": {
       "filename": "Zn_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Zn_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Zn_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Zn:Zn_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -833,7 +833,7 @@
     },
     "Zr": {
       "filename": "Zr_ONCV_PBE-1.0.upf",
-      "source_path": "SG15-ONCV/upf/Zr_ONCV_PBE-1.0.upf",
+      "source_path": "raw/SG15-ONCV/upf/Zr_ONCV_PBE-1.0.upf",
       "id": "sg15_oncv:Zr:Zr_ONCV_PBE-1.0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",

@@ -1,0 +1,20 @@
+{
+  "library": "BLPSLibrary",
+  "path": "raw/BLPSLibrary",
+  "url": "https://github.com/PrincetonUniversity/BLPSLibrary",
+  "kind": "git",
+  "license": "CC BY-ND 4.0",
+  "license_verified": true,
+  "license_file": "LICENSE.md",
+  "fetch": null,
+  "git": {
+    "commit": "b3406622cd129478002ef16e53044e175321ad71",
+    "commit_date": "2016-01-05"
+  },
+  "files": 40,
+  "bytes": 6008276,
+  "newest_file_mtime": "2026-11-10",
+  "manifest": "BLPSLibrary.sha256",
+  "manifest_sha256": "681eac9c4be7476ceb4283ad63c65bbfc0116178a5012afbe037f277e76fe6b5",
+  "recorded_at": "2026-11-10T12:39:16+00:00"
+}

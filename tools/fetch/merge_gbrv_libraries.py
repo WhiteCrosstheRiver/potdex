@@ -10,8 +10,8 @@ from dataclasses import dataclass, asdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-OLD_LIB = ROOT / "GBRV" / "v1.5"
-CANONICAL = ROOT / "Vanderbilt-USPP" / "GBRV-v1.5"
+OLD_LIB = ROOT / "raw" / "GBRV" / "v1.5"
+CANONICAL = ROOT / "raw" / "Vanderbilt-USPP" / "GBRV-v1.5"
 PRODUCTION_FMT = "upf"
 ARCHIVE_FORMATS = {"uspp", "paw", "paw-xml"}
 FORMAT_ALIASES = {"xml": "paw-xml"}

@@ -1,0 +1,28 @@
+{
+  "sets": [
+    {
+      "set_id": "SSSP-2.0-PBE-efficiency",
+      "status": "skipped_existing",
+      "files": 95,
+      "dest": "raw/SSSP/v2.0/PBE_efficiency/upf"
+    },
+    {
+      "set_id": "SSSP-2.0-PBE-precision",
+      "status": "skipped_existing",
+      "files": 85,
+      "dest": "raw/SSSP/v2.0/PBE_precision/upf"
+    },
+    {
+      "set_id": "SSSP-2.0-PBEsol-efficiency",
+      "status": "skipped_existing",
+      "files": 95,
+      "dest": "raw/SSSP/v2.0/PBEsol_efficiency/upf"
+    },
+    {
+      "set_id": "SSSP-2.0-PBEsol-precision",
+      "status": "skipped_existing",
+      "files": 95,
+      "dest": "raw/SSSP/v2.0/PBEsol_precision/upf"
+    }
+  ]
+}

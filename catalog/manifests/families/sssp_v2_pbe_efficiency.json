@@ -16,7 +16,7 @@
   "elements": {
     "Ac": {
       "filename": "Ac.us.pbe.z_11.ld1.psl.v1.0.0-high.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Ac.us.pbe.z_11.ld1.psl.v1.0.0-high.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Ac.us.pbe.z_11.ld1.psl.v1.0.0-high.upf",
       "id": "sssp:Ac:Ac.us.pbe.z_11.ld1.psl.v1.0.0-high.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -28,7 +28,7 @@
     },
     "Ag": {
       "filename": "Ag.nc.pbe.z_19.oncvpsp4.spms.v1.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Ag.nc.pbe.z_19.oncvpsp4.spms.v1.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Ag.nc.pbe.z_19.oncvpsp4.spms.v1.upf",
       "id": "sssp:Ag:Ag.nc.pbe.z_19.oncvpsp4.spms.v1.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -40,7 +40,7 @@
     },
     "Al": {
       "filename": "Al.us.pbe.z_3.ld1.psl.v1.0.0-low.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Al.us.pbe.z_3.ld1.psl.v1.0.0-low.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Al.us.pbe.z_3.ld1.psl.v1.0.0-low.upf",
       "id": "sssp:Al:Al.us.pbe.z_3.ld1.psl.v1.0.0-low.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -52,7 +52,7 @@
     },
     "Am": {
       "filename": "Am.us.pbe.z_17.ld1.psl.v1.0.0-high.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Am.us.pbe.z_17.ld1.psl.v1.0.0-high.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Am.us.pbe.z_17.ld1.psl.v1.0.0-high.upf",
       "id": "sssp:Am:Am.us.pbe.z_17.ld1.psl.v1.0.0-high.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -64,7 +64,7 @@
     },
     "Au": {
       "filename": "Au.us.pbe.z_11.uspp.gbrv.v1.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Au.us.pbe.z_11.uspp.gbrv.v1.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Au.us.pbe.z_11.uspp.gbrv.v1.upf",
       "id": "sssp:Au:Au.us.pbe.z_11.uspp.gbrv.v1.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -76,7 +76,7 @@
     },
     "Ba": {
       "filename": "Ba.nc.pbe.z_10.oncvpsp4.spms.v1.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Ba.nc.pbe.z_10.oncvpsp4.spms.v1.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Ba.nc.pbe.z_10.oncvpsp4.spms.v1.upf",
       "id": "sssp:Ba:Ba.nc.pbe.z_10.oncvpsp4.spms.v1.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -88,7 +88,7 @@
     },
     "Be": {
       "filename": "Be.us.pbe.z_2.ld1.psl.v1.0.0-low.n.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Be.us.pbe.z_2.ld1.psl.v1.0.0-low.n.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Be.us.pbe.z_2.ld1.psl.v1.0.0-low.n.upf",
       "id": "sssp:Be:Be.us.pbe.z_2.ld1.psl.v1.0.0-low.n.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -100,7 +100,7 @@
     },
     "Bi": {
       "filename": "Bi.us.pbe.z_15.uspp.gbrv.v1.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Bi.us.pbe.z_15.uspp.gbrv.v1.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Bi.us.pbe.z_15.uspp.gbrv.v1.upf",
       "id": "sssp:Bi:Bi.us.pbe.z_15.uspp.gbrv.v1.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -112,7 +112,7 @@
     },
     "Br": {
       "filename": "Br.nc.pbe.z_7.oncvpsp4.spms.v1.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Br.nc.pbe.z_7.oncvpsp4.spms.v1.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Br.nc.pbe.z_7.oncvpsp4.spms.v1.upf",
       "id": "sssp:Br:Br.nc.pbe.z_7.oncvpsp4.spms.v1.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -124,7 +124,7 @@
     },
     "C": {
       "filename": "C.us.pbe.z_4.uspp.gbrv.v1.2.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/C.us.pbe.z_4.uspp.gbrv.v1.2.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/C.us.pbe.z_4.uspp.gbrv.v1.2.upf",
       "id": "sssp:C:C.us.pbe.z_4.uspp.gbrv.v1.2.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -136,7 +136,7 @@
     },
     "Ca": {
       "filename": "Ca.us.pbe.z_10.uspp.gbrv.v1.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Ca.us.pbe.z_10.uspp.gbrv.v1.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Ca.us.pbe.z_10.uspp.gbrv.v1.upf",
       "id": "sssp:Ca:Ca.us.pbe.z_10.uspp.gbrv.v1.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -148,7 +148,7 @@
     },
     "Cl": {
       "filename": "Cl.us.pbe.z_7.ld1.psl.v1.0.0-high.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Cl.us.pbe.z_7.ld1.psl.v1.0.0-high.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Cl.us.pbe.z_7.ld1.psl.v1.0.0-high.upf",
       "id": "sssp:Cl:Cl.us.pbe.z_7.ld1.psl.v1.0.0-high.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -160,7 +160,7 @@
     },
     "Co": {
       "filename": "Co.nc.pbe.z_17.oncvpsp4.spms.v1.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Co.nc.pbe.z_17.oncvpsp4.spms.v1.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Co.nc.pbe.z_17.oncvpsp4.spms.v1.upf",
       "id": "sssp:Co:Co.nc.pbe.z_17.oncvpsp4.spms.v1.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -172,7 +172,7 @@
     },
     "Cr": {
       "filename": "Cr.us.pbe.z_14.uspp.gbrv.v1.5.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Cr.us.pbe.z_14.uspp.gbrv.v1.5.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Cr.us.pbe.z_14.uspp.gbrv.v1.5.upf",
       "id": "sssp:Cr:Cr.us.pbe.z_14.uspp.gbrv.v1.5.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -184,7 +184,7 @@
     },
     "Cs": {
       "filename": "Cs.us.pbe.z_9.ld1.psl.v1.0.0-high.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Cs.us.pbe.z_9.ld1.psl.v1.0.0-high.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Cs.us.pbe.z_9.ld1.psl.v1.0.0-high.upf",
       "id": "sssp:Cs:Cs.us.pbe.z_9.ld1.psl.v1.0.0-high.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -196,7 +196,7 @@
     },
     "F": {
       "filename": "F.us.pbe.z_7.uspp.gbrv.v1.4.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/F.us.pbe.z_7.uspp.gbrv.v1.4.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/F.us.pbe.z_7.uspp.gbrv.v1.4.upf",
       "id": "sssp:F:F.us.pbe.z_7.uspp.gbrv.v1.4.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -208,7 +208,7 @@
     },
     "Ge": {
       "filename": "Ge.us.pbe.z_14.uspp.gbrv.v1.4.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Ge.us.pbe.z_14.uspp.gbrv.v1.4.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Ge.us.pbe.z_14.uspp.gbrv.v1.4.upf",
       "id": "sssp:Ge:Ge.us.pbe.z_14.uspp.gbrv.v1.4.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -220,7 +220,7 @@
     },
     "H": {
       "filename": "H.us.pbe.z_1.uspp.gbrv.v1.4.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/H.us.pbe.z_1.uspp.gbrv.v1.4.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/H.us.pbe.z_1.uspp.gbrv.v1.4.upf",
       "id": "sssp:H:H.us.pbe.z_1.uspp.gbrv.v1.4.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -232,7 +232,7 @@
     },
     "He": {
       "filename": "He.nc.pbe.z_2.oncvpsp4.sg15.v0.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/He.nc.pbe.z_2.oncvpsp4.sg15.v0.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/He.nc.pbe.z_2.oncvpsp4.sg15.v0.upf",
       "id": "sssp:He:He.nc.pbe.z_2.oncvpsp4.sg15.v0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -244,7 +244,7 @@
     },
     "Hf": {
       "filename": "Hf.nc.pbe.z_12.oncvpsp4.spms.v1.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Hf.nc.pbe.z_12.oncvpsp4.spms.v1.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Hf.nc.pbe.z_12.oncvpsp4.spms.v1.upf",
       "id": "sssp:Hf:Hf.nc.pbe.z_12.oncvpsp4.spms.v1.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -256,7 +256,7 @@
     },
     "Hg": {
       "filename": "Hg.us.pbe.z_12.uspp.gbrv.v1.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Hg.us.pbe.z_12.uspp.gbrv.v1.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Hg.us.pbe.z_12.uspp.gbrv.v1.upf",
       "id": "sssp:Hg:Hg.us.pbe.z_12.uspp.gbrv.v1.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -268,7 +268,7 @@
     },
     "I": {
       "filename": "I.us.pbe.z_7.uspp.gbrv.v1.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/I.us.pbe.z_7.uspp.gbrv.v1.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/I.us.pbe.z_7.uspp.gbrv.v1.upf",
       "id": "sssp:I:I.us.pbe.z_7.uspp.gbrv.v1.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -280,7 +280,7 @@
     },
     "In": {
       "filename": "In.us.pbe.z_13.ld1.psl.v0.2.2.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/In.us.pbe.z_13.ld1.psl.v0.2.2.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/In.us.pbe.z_13.ld1.psl.v0.2.2.upf",
       "id": "sssp:In:In.us.pbe.z_13.ld1.psl.v0.2.2.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -292,7 +292,7 @@
     },
     "Ir": {
       "filename": "Ir.nc.pbe.z_17.oncvpsp4.spms.v1.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Ir.nc.pbe.z_17.oncvpsp4.spms.v1.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Ir.nc.pbe.z_17.oncvpsp4.spms.v1.upf",
       "id": "sssp:Ir:Ir.nc.pbe.z_17.oncvpsp4.spms.v1.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -304,7 +304,7 @@
     },
     "K": {
       "filename": "K.nc.pbe.z_9.oncvpsp4.sg15.v0.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/K.nc.pbe.z_9.oncvpsp4.sg15.v0.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/K.nc.pbe.z_9.oncvpsp4.sg15.v0.upf",
       "id": "sssp:K:K.nc.pbe.z_9.oncvpsp4.sg15.v0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -316,7 +316,7 @@
     },
     "Kr": {
       "filename": "Kr.nc.pbe.z_8.oncvpsp3.dojo.v0.4.1-std.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Kr.nc.pbe.z_8.oncvpsp3.dojo.v0.4.1-std.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Kr.nc.pbe.z_8.oncvpsp3.dojo.v0.4.1-std.upf",
       "id": "sssp:Kr:Kr.nc.pbe.z_8.oncvpsp3.dojo.v0.4.1-std.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -328,7 +328,7 @@
     },
     "Li": {
       "filename": "Li.us.pbe.z_3.uspp.gbrv.v1.4.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Li.us.pbe.z_3.uspp.gbrv.v1.4.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Li.us.pbe.z_3.uspp.gbrv.v1.4.upf",
       "id": "sssp:Li:Li.us.pbe.z_3.uspp.gbrv.v1.4.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -340,7 +340,7 @@
     },
     "Mg": {
       "filename": "Mg.us.pbe.z_10.uspp.gbrv.v1.4.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Mg.us.pbe.z_10.uspp.gbrv.v1.4.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Mg.us.pbe.z_10.uspp.gbrv.v1.4.upf",
       "id": "sssp:Mg:Mg.us.pbe.z_10.uspp.gbrv.v1.4.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -352,7 +352,7 @@
     },
     "Mn": {
       "filename": "Mn.us.pbe.z_15.uspp.gbrv.v1.5.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Mn.us.pbe.z_15.uspp.gbrv.v1.5.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Mn.us.pbe.z_15.uspp.gbrv.v1.5.upf",
       "id": "sssp:Mn:Mn.us.pbe.z_15.uspp.gbrv.v1.5.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -364,7 +364,7 @@
     },
     "N": {
       "filename": "N.us.pbe.z_5.uspp.gbrv.v1.2.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/N.us.pbe.z_5.uspp.gbrv.v1.2.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/N.us.pbe.z_5.uspp.gbrv.v1.2.upf",
       "id": "sssp:N:N.us.pbe.z_5.uspp.gbrv.v1.2.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -376,7 +376,7 @@
     },
     "Ne": {
       "filename": "Ne.nc.pbe.z_8.oncvpsp4.spms.v1.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Ne.nc.pbe.z_8.oncvpsp4.spms.v1.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Ne.nc.pbe.z_8.oncvpsp4.spms.v1.upf",
       "id": "sssp:Ne:Ne.nc.pbe.z_8.oncvpsp4.spms.v1.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -388,7 +388,7 @@
     },
     "Ni": {
       "filename": "Ni.nc.pbe.z_18.oncvpsp4.spms.v1.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Ni.nc.pbe.z_18.oncvpsp4.spms.v1.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Ni.nc.pbe.z_18.oncvpsp4.spms.v1.upf",
       "id": "sssp:Ni:Ni.nc.pbe.z_18.oncvpsp4.spms.v1.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -400,7 +400,7 @@
     },
     "Np": {
       "filename": "Np.us.pbe.z_15.ld1.psl.v1.0.0-high.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Np.us.pbe.z_15.ld1.psl.v1.0.0-high.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Np.us.pbe.z_15.ld1.psl.v1.0.0-high.upf",
       "id": "sssp:Np:Np.us.pbe.z_15.ld1.psl.v1.0.0-high.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -412,7 +412,7 @@
     },
     "Os": {
       "filename": "Os.us.pbe.z_16.uspp.gbrv.v1.2.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Os.us.pbe.z_16.uspp.gbrv.v1.2.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Os.us.pbe.z_16.uspp.gbrv.v1.2.upf",
       "id": "sssp:Os:Os.us.pbe.z_16.uspp.gbrv.v1.2.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -424,7 +424,7 @@
     },
     "P": {
       "filename": "P.us.pbe.z_5.ld1.psl.v1.0.0-high.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/P.us.pbe.z_5.ld1.psl.v1.0.0-high.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/P.us.pbe.z_5.ld1.psl.v1.0.0-high.upf",
       "id": "sssp:P:P.us.pbe.z_5.ld1.psl.v1.0.0-high.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -436,7 +436,7 @@
     },
     "Pb": {
       "filename": "Pb.nc.pbe.z_14.oncvpsp4.spms.v1.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Pb.nc.pbe.z_14.oncvpsp4.spms.v1.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Pb.nc.pbe.z_14.oncvpsp4.spms.v1.upf",
       "id": "sssp:Pb:Pb.nc.pbe.z_14.oncvpsp4.spms.v1.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -448,7 +448,7 @@
     },
     "Pd": {
       "filename": "Pd.nc.pbe.z_18.oncvpsp4.sg15.v0.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Pd.nc.pbe.z_18.oncvpsp4.sg15.v0.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Pd.nc.pbe.z_18.oncvpsp4.sg15.v0.upf",
       "id": "sssp:Pd:Pd.nc.pbe.z_18.oncvpsp4.sg15.v0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -460,7 +460,7 @@
     },
     "Po": {
       "filename": "Po.nc.pbe.z_16.oncvpsp3.dojo.v0.4.1-std.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Po.nc.pbe.z_16.oncvpsp3.dojo.v0.4.1-std.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Po.nc.pbe.z_16.oncvpsp3.dojo.v0.4.1-std.upf",
       "id": "sssp:Po:Po.nc.pbe.z_16.oncvpsp3.dojo.v0.4.1-std.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -472,7 +472,7 @@
     },
     "Pt": {
       "filename": "Pt.us.pbe.z_16.uspp.gbrv.v1.4.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Pt.us.pbe.z_16.uspp.gbrv.v1.4.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Pt.us.pbe.z_16.uspp.gbrv.v1.4.upf",
       "id": "sssp:Pt:Pt.us.pbe.z_16.uspp.gbrv.v1.4.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -484,7 +484,7 @@
     },
     "Pu": {
       "filename": "Pu.us.pbe.z_16.ld1.psl.v1.0.0-high.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Pu.us.pbe.z_16.ld1.psl.v1.0.0-high.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Pu.us.pbe.z_16.ld1.psl.v1.0.0-high.upf",
       "id": "sssp:Pu:Pu.us.pbe.z_16.ld1.psl.v1.0.0-high.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -496,7 +496,7 @@
     },
     "Rb": {
       "filename": "Rb.us.pbe.z_9.uspp.gbrv.v1.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Rb.us.pbe.z_9.uspp.gbrv.v1.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Rb.us.pbe.z_9.uspp.gbrv.v1.upf",
       "id": "sssp:Rb:Rb.us.pbe.z_9.uspp.gbrv.v1.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -508,7 +508,7 @@
     },
     "Re": {
       "filename": "Re.us.pbe.z_15.uspp.gbrv.v1.2.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Re.us.pbe.z_15.uspp.gbrv.v1.2.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Re.us.pbe.z_15.uspp.gbrv.v1.2.upf",
       "id": "sssp:Re:Re.us.pbe.z_15.uspp.gbrv.v1.2.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -520,7 +520,7 @@
     },
     "Rh": {
       "filename": "Rh.nc.pbe.z_17.oncvpsp4.sg15.v0.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Rh.nc.pbe.z_17.oncvpsp4.sg15.v0.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Rh.nc.pbe.z_17.oncvpsp4.sg15.v0.upf",
       "id": "sssp:Rh:Rh.nc.pbe.z_17.oncvpsp4.sg15.v0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -532,7 +532,7 @@
     },
     "Ru": {
       "filename": "Ru.nc.pbe.z_16.oncvpsp4.sg15.v0.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Ru.nc.pbe.z_16.oncvpsp4.sg15.v0.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Ru.nc.pbe.z_16.oncvpsp4.sg15.v0.upf",
       "id": "sssp:Ru:Ru.nc.pbe.z_16.oncvpsp4.sg15.v0.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -544,7 +544,7 @@
     },
     "S": {
       "filename": "S.nc.pbe.z_6.oncvpsp4.spms.v1.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/S.nc.pbe.z_6.oncvpsp4.spms.v1.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/S.nc.pbe.z_6.oncvpsp4.spms.v1.upf",
       "id": "sssp:S:S.nc.pbe.z_6.oncvpsp4.spms.v1.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -556,7 +556,7 @@
     },
     "Sc": {
       "filename": "Sc.us.pbe.z_11.uspp.gbrv.v1.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Sc.us.pbe.z_11.uspp.gbrv.v1.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Sc.us.pbe.z_11.uspp.gbrv.v1.upf",
       "id": "sssp:Sc:Sc.us.pbe.z_11.uspp.gbrv.v1.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -568,7 +568,7 @@
     },
     "Se": {
       "filename": "Se.us.pbe.z_6.uspp.gbrv.v1.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Se.us.pbe.z_6.uspp.gbrv.v1.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Se.us.pbe.z_6.uspp.gbrv.v1.upf",
       "id": "sssp:Se:Se.us.pbe.z_6.uspp.gbrv.v1.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -580,7 +580,7 @@
     },
     "Si": {
       "filename": "Si.us.pbe.z_4.ld1.psl.v1.0.0-high.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Si.us.pbe.z_4.ld1.psl.v1.0.0-high.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Si.us.pbe.z_4.ld1.psl.v1.0.0-high.upf",
       "id": "sssp:Si:Si.us.pbe.z_4.ld1.psl.v1.0.0-high.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -592,7 +592,7 @@
     },
     "Sm": {
       "filename": "Sm.us.pbe.z_26.ld1.psl.v1.0.0-high.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Sm.us.pbe.z_26.ld1.psl.v1.0.0-high.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Sm.us.pbe.z_26.ld1.psl.v1.0.0-high.upf",
       "id": "sssp:Sm:Sm.us.pbe.z_26.ld1.psl.v1.0.0-high.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -604,7 +604,7 @@
     },
     "Sr": {
       "filename": "Sr.us.pbe.z_10.uspp.gbrv.v1.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Sr.us.pbe.z_10.uspp.gbrv.v1.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Sr.us.pbe.z_10.uspp.gbrv.v1.upf",
       "id": "sssp:Sr:Sr.us.pbe.z_10.uspp.gbrv.v1.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -616,7 +616,7 @@
     },
     "Ta": {
       "filename": "Ta.nc.pbe.z_13.oncvpsp4.spms.v1.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Ta.nc.pbe.z_13.oncvpsp4.spms.v1.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Ta.nc.pbe.z_13.oncvpsp4.spms.v1.upf",
       "id": "sssp:Ta:Ta.nc.pbe.z_13.oncvpsp4.spms.v1.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -628,7 +628,7 @@
     },
     "Tc": {
       "filename": "Tc.us.pbe.z_15.uspp.gbrv.v1.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Tc.us.pbe.z_15.uspp.gbrv.v1.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Tc.us.pbe.z_15.uspp.gbrv.v1.upf",
       "id": "sssp:Tc:Tc.us.pbe.z_15.uspp.gbrv.v1.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -640,7 +640,7 @@
     },
     "Te": {
       "filename": "Te.us.pbe.z_6.ld1.psl.v1.0.0-low.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Te.us.pbe.z_6.ld1.psl.v1.0.0-low.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Te.us.pbe.z_6.ld1.psl.v1.0.0-low.upf",
       "id": "sssp:Te:Te.us.pbe.z_6.ld1.psl.v1.0.0-low.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -652,7 +652,7 @@
     },
     "Th": {
       "filename": "Th.us.pbe.z_12.ld1.psl.v1.0.0-high.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Th.us.pbe.z_12.ld1.psl.v1.0.0-high.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Th.us.pbe.z_12.ld1.psl.v1.0.0-high.upf",
       "id": "sssp:Th:Th.us.pbe.z_12.ld1.psl.v1.0.0-high.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -664,7 +664,7 @@
     },
     "Ti": {
       "filename": "Ti.us.pbe.z_12.uspp.gbrv.v1.4.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Ti.us.pbe.z_12.uspp.gbrv.v1.4.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Ti.us.pbe.z_12.uspp.gbrv.v1.4.upf",
       "id": "sssp:Ti:Ti.us.pbe.z_12.uspp.gbrv.v1.4.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -676,7 +676,7 @@
     },
     "Tl": {
       "filename": "Tl.nc.pbe.z_13.oncvpsp4.spms.v1.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Tl.nc.pbe.z_13.oncvpsp4.spms.v1.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Tl.nc.pbe.z_13.oncvpsp4.spms.v1.upf",
       "id": "sssp:Tl:Tl.nc.pbe.z_13.oncvpsp4.spms.v1.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -688,7 +688,7 @@
     },
     "V": {
       "filename": "V.us.pbe.z_13.uspp.gbrv.v1.4.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/V.us.pbe.z_13.uspp.gbrv.v1.4.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/V.us.pbe.z_13.uspp.gbrv.v1.4.upf",
       "id": "sssp:V:V.us.pbe.z_13.uspp.gbrv.v1.4.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -700,7 +700,7 @@
     },
     "W": {
       "filename": "W.nc.pbe.z_14.oncvpsp4.spms.v1.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/W.nc.pbe.z_14.oncvpsp4.spms.v1.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/W.nc.pbe.z_14.oncvpsp4.spms.v1.upf",
       "id": "sssp:W:W.nc.pbe.z_14.oncvpsp4.spms.v1.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -712,7 +712,7 @@
     },
     "Y": {
       "filename": "Y.us.pbe.z_11.uspp.gbrv.v1.4.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Y.us.pbe.z_11.uspp.gbrv.v1.4.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Y.us.pbe.z_11.uspp.gbrv.v1.4.upf",
       "id": "sssp:Y:Y.us.pbe.z_11.uspp.gbrv.v1.4.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -724,7 +724,7 @@
     },
     "Zr": {
       "filename": "Zr.us.pbe.z_12.uspp.gbrv.v1.upf",
-      "source_path": "SSSP/v2.0/PBE_efficiency/upf/Zr.us.pbe.z_12.uspp.gbrv.v1.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_efficiency/upf/Zr.us.pbe.z_12.uspp.gbrv.v1.upf",
       "id": "sssp:Zr:Zr.us.pbe.z_12.uspp.gbrv.v1.upf",
       "formalism": "USPP",
       "xc_functional": "PBE",

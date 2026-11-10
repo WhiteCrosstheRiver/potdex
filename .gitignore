@@ -1,13 +1,6 @@
-# Raw downloaded libraries (large; re-fetch with tools/fetch/ or tools/download_sssp.py)
-/BLPSLibrary/
-/PseudoDOJO/
-/pseudos_ac_she/
-/PSlibrary/
-/PWmat/
-/Rappe-group/
-/SG15-ONCV/
-/SSSP/
-/Vanderbilt-USPP/
+# Raw downloaded libraries (large; re-fetch with tools/fetch/ or tools/download_sssp.py).
+# Their provenance and SHA-256 manifests are tracked in catalog/sources/.
+/raw/
 
 # Derived catalog output that is rebuilt by tools/run_pipeline.py
 /catalog/views/

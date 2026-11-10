@@ -17,7 +17,7 @@
   "elements": {
     "Ag": {
       "filename": "ag_pbe_v1.4.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Ag/ag_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Ag/ag_pbe_v1.4.uspp.F.UPF",
       "id": "gbrv:Ag:ag_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -29,7 +29,7 @@
     },
     "Al": {
       "filename": "al_pbe_v1.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Al/al_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Al/al_pbe_v1.uspp.F.UPF",
       "id": "gbrv:Al:al_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -41,7 +41,7 @@
     },
     "As": {
       "filename": "as_pbe_v1.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/As/as_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/As/as_pbe_v1.uspp.F.UPF",
       "id": "gbrv:As:as_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -53,7 +53,7 @@
     },
     "Au": {
       "filename": "au_pbe_v1.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Au/au_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Au/au_pbe_v1.uspp.F.UPF",
       "id": "gbrv:Au:au_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -65,7 +65,7 @@
     },
     "B": {
       "filename": "b_pbe_v1.4.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/B/b_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/B/b_pbe_v1.4.uspp.F.UPF",
       "id": "gbrv:B:b_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -77,7 +77,7 @@
     },
     "Ba": {
       "filename": "ba_pbe_v1.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Ba/ba_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Ba/ba_pbe_v1.uspp.F.UPF",
       "id": "gbrv:Ba:ba_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -89,7 +89,7 @@
     },
     "Be": {
       "filename": "be_pbe_v1.4.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Be/be_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Be/be_pbe_v1.4.uspp.F.UPF",
       "id": "gbrv:Be:be_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -101,7 +101,7 @@
     },
     "Bi": {
       "filename": "bi_pbe_v1.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Bi/bi_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Bi/bi_pbe_v1.uspp.F.UPF",
       "id": "gbrv:Bi:bi_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -113,7 +113,7 @@
     },
     "Br": {
       "filename": "br_pbe_v1.4.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Br/br_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Br/br_pbe_v1.4.uspp.F.UPF",
       "id": "gbrv:Br:br_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -125,7 +125,7 @@
     },
     "C": {
       "filename": "c_pbe_v1.2.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/C/c_pbe_v1.2.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/C/c_pbe_v1.2.uspp.F.UPF",
       "id": "gbrv:C:c_pbe_v1.2.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -137,7 +137,7 @@
     },
     "Ca": {
       "filename": "ca_pbe_v1.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Ca/ca_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Ca/ca_pbe_v1.uspp.F.UPF",
       "id": "gbrv:Ca:ca_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -149,7 +149,7 @@
     },
     "Cd": {
       "filename": "cd_pbe_v1.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Cd/cd_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Cd/cd_pbe_v1.uspp.F.UPF",
       "id": "gbrv:Cd:cd_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -161,7 +161,7 @@
     },
     "Cl": {
       "filename": "cl_pbe_v1.4.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Cl/cl_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Cl/cl_pbe_v1.4.uspp.F.UPF",
       "id": "gbrv:Cl:cl_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -173,7 +173,7 @@
     },
     "Co": {
       "filename": "co_pbe_v1.2.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Co/co_pbe_v1.2.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Co/co_pbe_v1.2.uspp.F.UPF",
       "id": "gbrv:Co:co_pbe_v1.2.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -185,7 +185,7 @@
     },
     "Cr": {
       "filename": "cr_pbe_v1.5.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Cr/cr_pbe_v1.5.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Cr/cr_pbe_v1.5.uspp.F.UPF",
       "id": "gbrv:Cr:cr_pbe_v1.5.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -197,7 +197,7 @@
     },
     "Cs": {
       "filename": "cs_pbe_v1.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Cs/cs_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Cs/cs_pbe_v1.uspp.F.UPF",
       "id": "gbrv:Cs:cs_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -209,7 +209,7 @@
     },
     "Cu": {
       "filename": "cu_pbe_v1.2.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Cu/cu_pbe_v1.2.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Cu/cu_pbe_v1.2.uspp.F.UPF",
       "id": "gbrv:Cu:cu_pbe_v1.2.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -221,7 +221,7 @@
     },
     "F": {
       "filename": "f_pbe_v1.4.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/F/f_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/F/f_pbe_v1.4.uspp.F.UPF",
       "id": "gbrv:F:f_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -233,7 +233,7 @@
     },
     "Fe": {
       "filename": "fe_pbe_v1.5.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Fe/fe_pbe_v1.5.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Fe/fe_pbe_v1.5.uspp.F.UPF",
       "id": "gbrv:Fe:fe_pbe_v1.5.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -245,7 +245,7 @@
     },
     "Ga": {
       "filename": "ga_pbe_v1.4.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Ga/ga_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Ga/ga_pbe_v1.4.uspp.F.UPF",
       "id": "gbrv:Ga:ga_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -257,7 +257,7 @@
     },
     "Ge": {
       "filename": "ge_pbe_v1.4.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Ge/ge_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Ge/ge_pbe_v1.4.uspp.F.UPF",
       "id": "gbrv:Ge:ge_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -269,7 +269,7 @@
     },
     "H": {
       "filename": "h_pbe_v1.4.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/H/h_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/H/h_pbe_v1.4.uspp.F.UPF",
       "id": "gbrv:H:h_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -281,7 +281,7 @@
     },
     "Hf": {
       "filename": "hf_pbe_v1.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Hf/hf_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Hf/hf_pbe_v1.uspp.F.UPF",
       "id": "gbrv:Hf:hf_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -293,7 +293,7 @@
     },
     "Hg": {
       "filename": "hg_pbe_v1.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Hg/hg_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Hg/hg_pbe_v1.uspp.F.UPF",
       "id": "gbrv:Hg:hg_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -305,7 +305,7 @@
     },
     "I": {
       "filename": "i_pbe_v1.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/I/i_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/I/i_pbe_v1.uspp.F.UPF",
       "id": "gbrv:I:i_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -317,7 +317,7 @@
     },
     "In": {
       "filename": "in_pbe_v1.4.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/In/in_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/In/in_pbe_v1.4.uspp.F.UPF",
       "id": "gbrv:In:in_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -329,7 +329,7 @@
     },
     "Ir": {
       "filename": "ir_pbe_v1.2.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Ir/ir_pbe_v1.2.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Ir/ir_pbe_v1.2.uspp.F.UPF",
       "id": "gbrv:Ir:ir_pbe_v1.2.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -341,7 +341,7 @@
     },
     "K": {
       "filename": "k_pbe_v1.4.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/K/k_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/K/k_pbe_v1.4.uspp.F.UPF",
       "id": "gbrv:K:k_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -353,7 +353,7 @@
     },
     "La": {
       "filename": "la_pbe_v1.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/La/la_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/La/la_pbe_v1.uspp.F.UPF",
       "id": "gbrv:La:la_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -365,7 +365,7 @@
     },
     "Li": {
       "filename": "li_pbe_v1.4.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Li/li_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Li/li_pbe_v1.4.uspp.F.UPF",
       "id": "gbrv:Li:li_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -377,7 +377,7 @@
     },
     "Mg": {
       "filename": "mg_pbe_v1.4.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Mg/mg_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Mg/mg_pbe_v1.4.uspp.F.UPF",
       "id": "gbrv:Mg:mg_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -389,7 +389,7 @@
     },
     "Mn": {
       "filename": "mn_pbe_v1.5.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Mn/mn_pbe_v1.5.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Mn/mn_pbe_v1.5.uspp.F.UPF",
       "id": "gbrv:Mn:mn_pbe_v1.5.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -401,7 +401,7 @@
     },
     "Mo": {
       "filename": "mo_pbe_v1.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Mo/mo_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Mo/mo_pbe_v1.uspp.F.UPF",
       "id": "gbrv:Mo:mo_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -413,7 +413,7 @@
     },
     "N": {
       "filename": "n_pbe_v1.2.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/N/n_pbe_v1.2.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/N/n_pbe_v1.2.uspp.F.UPF",
       "id": "gbrv:N:n_pbe_v1.2.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -425,7 +425,7 @@
     },
     "Na": {
       "filename": "na_pbe_v1.5.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Na/na_pbe_v1.5.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Na/na_pbe_v1.5.uspp.F.UPF",
       "id": "gbrv:Na:na_pbe_v1.5.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -437,7 +437,7 @@
     },
     "Nb": {
       "filename": "nb_pbe_v1.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Nb/nb_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Nb/nb_pbe_v1.uspp.F.UPF",
       "id": "gbrv:Nb:nb_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -449,7 +449,7 @@
     },
     "Ni": {
       "filename": "ni_pbe_v1.4.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Ni/ni_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Ni/ni_pbe_v1.4.uspp.F.UPF",
       "id": "gbrv:Ni:ni_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -461,7 +461,7 @@
     },
     "O": {
       "filename": "o_pbe_v1.2.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/O/o_pbe_v1.2.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/O/o_pbe_v1.2.uspp.F.UPF",
       "id": "gbrv:O:o_pbe_v1.2.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -473,7 +473,7 @@
     },
     "Os": {
       "filename": "os_pbe_v1.2.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Os/os_pbe_v1.2.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Os/os_pbe_v1.2.uspp.F.UPF",
       "id": "gbrv:Os:os_pbe_v1.2.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -485,7 +485,7 @@
     },
     "P": {
       "filename": "p_pbe_v1.5.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/P/p_pbe_v1.5.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/P/p_pbe_v1.5.uspp.F.UPF",
       "id": "gbrv:P:p_pbe_v1.5.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -497,7 +497,7 @@
     },
     "Pb": {
       "filename": "pb_pbe_v1.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Pb/pb_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Pb/pb_pbe_v1.uspp.F.UPF",
       "id": "gbrv:Pb:pb_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -509,7 +509,7 @@
     },
     "Pd": {
       "filename": "pd_pbe_v1.4.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Pd/pd_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Pd/pd_pbe_v1.4.uspp.F.UPF",
       "id": "gbrv:Pd:pd_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -521,7 +521,7 @@
     },
     "Pt": {
       "filename": "pt_pbe_v1.4.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Pt/pt_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Pt/pt_pbe_v1.4.uspp.F.UPF",
       "id": "gbrv:Pt:pt_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -533,7 +533,7 @@
     },
     "Rb": {
       "filename": "rb_pbe_v1.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Rb/rb_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Rb/rb_pbe_v1.uspp.F.UPF",
       "id": "gbrv:Rb:rb_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -545,7 +545,7 @@
     },
     "Re": {
       "filename": "re_pbe_v1.2.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Re/re_pbe_v1.2.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Re/re_pbe_v1.2.uspp.F.UPF",
       "id": "gbrv:Re:re_pbe_v1.2.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -557,7 +557,7 @@
     },
     "Rh": {
       "filename": "rh_pbe_v1.4.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Rh/rh_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Rh/rh_pbe_v1.4.uspp.F.UPF",
       "id": "gbrv:Rh:rh_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -569,7 +569,7 @@
     },
     "Ru": {
       "filename": "ru_pbe_v1.2.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Ru/ru_pbe_v1.2.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Ru/ru_pbe_v1.2.uspp.F.UPF",
       "id": "gbrv:Ru:ru_pbe_v1.2.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -581,7 +581,7 @@
     },
     "S": {
       "filename": "s_pbe_v1.4.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/S/s_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/S/s_pbe_v1.4.uspp.F.UPF",
       "id": "gbrv:S:s_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -593,7 +593,7 @@
     },
     "Sb": {
       "filename": "sb_pbe_v1.4.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Sb/sb_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Sb/sb_pbe_v1.4.uspp.F.UPF",
       "id": "gbrv:Sb:sb_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -605,7 +605,7 @@
     },
     "Sc": {
       "filename": "sc_pbe_v1.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Sc/sc_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Sc/sc_pbe_v1.uspp.F.UPF",
       "id": "gbrv:Sc:sc_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -617,7 +617,7 @@
     },
     "Se": {
       "filename": "se_pbe_v1.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Se/se_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Se/se_pbe_v1.uspp.F.UPF",
       "id": "gbrv:Se:se_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -629,7 +629,7 @@
     },
     "Si": {
       "filename": "si_pbe_v1.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Si/si_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Si/si_pbe_v1.uspp.F.UPF",
       "id": "gbrv:Si:si_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -641,7 +641,7 @@
     },
     "Sn": {
       "filename": "sn_pbe_v1.4.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Sn/sn_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Sn/sn_pbe_v1.4.uspp.F.UPF",
       "id": "gbrv:Sn:sn_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -653,7 +653,7 @@
     },
     "Sr": {
       "filename": "sr_pbe_v1.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Sr/sr_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Sr/sr_pbe_v1.uspp.F.UPF",
       "id": "gbrv:Sr:sr_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -665,7 +665,7 @@
     },
     "Ta": {
       "filename": "ta_pbe_v1.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Ta/ta_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Ta/ta_pbe_v1.uspp.F.UPF",
       "id": "gbrv:Ta:ta_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -677,7 +677,7 @@
     },
     "Tc": {
       "filename": "tc_pbe_v1.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Tc/tc_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Tc/tc_pbe_v1.uspp.F.UPF",
       "id": "gbrv:Tc:tc_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -689,7 +689,7 @@
     },
     "Te": {
       "filename": "te_pbe_v1.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Te/te_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Te/te_pbe_v1.uspp.F.UPF",
       "id": "gbrv:Te:te_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -701,7 +701,7 @@
     },
     "Ti": {
       "filename": "ti_pbe_v1.4.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Ti/ti_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Ti/ti_pbe_v1.4.uspp.F.UPF",
       "id": "gbrv:Ti:ti_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -713,7 +713,7 @@
     },
     "Tl": {
       "filename": "tl_pbe_v1.2.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Tl/tl_pbe_v1.2.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Tl/tl_pbe_v1.2.uspp.F.UPF",
       "id": "gbrv:Tl:tl_pbe_v1.2.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -725,7 +725,7 @@
     },
     "V": {
       "filename": "v_pbe_v1.4.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/V/v_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/V/v_pbe_v1.4.uspp.F.UPF",
       "id": "gbrv:V:v_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -737,7 +737,7 @@
     },
     "W": {
       "filename": "w_pbe_v1.2.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/W/w_pbe_v1.2.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/W/w_pbe_v1.2.uspp.F.UPF",
       "id": "gbrv:W:w_pbe_v1.2.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -749,7 +749,7 @@
     },
     "Y": {
       "filename": "y_pbe_v1.4.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Y/y_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Y/y_pbe_v1.4.uspp.F.UPF",
       "id": "gbrv:Y:y_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -761,7 +761,7 @@
     },
     "Zn": {
       "filename": "zn_pbe_v1.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Zn/zn_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Zn/zn_pbe_v1.uspp.F.UPF",
       "id": "gbrv:Zn:zn_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -773,7 +773,7 @@
     },
     "Zr": {
       "filename": "zr_pbe_v1.uspp.F.UPF",
-      "source_path": "Vanderbilt-USPP/GBRV-v1.5/upf/Zr/zr_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/Vanderbilt-USPP/GBRV-v1.5/upf/Zr/zr_pbe_v1.uspp.F.UPF",
       "id": "gbrv:Zr:zr_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",

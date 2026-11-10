@@ -13,12 +13,12 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from common import ROOT, write_json
+from common import METADATA, RAW, ROOT, write_json
 
 ARCHIVES = [
     {
         "name": "SSSP-lib-pbe-eff-v2.tar.gz",
-        "dest": ROOT / "SSSP/v2.0/efficiency/SSSP-lib-pbe-eff-v2.tar.gz",
+        "dest": RAW / "SSSP/v2.0/efficiency/SSSP-lib-pbe-eff-v2.tar.gz",
         "min_size": 50_000_000,
         "urls": [
             "https://archive.materialscloud.org/records/rcyfm-68h65/files/SSSP-lib-pbe-eff-v2.tar.gz",
@@ -27,7 +27,7 @@ ARCHIVES = [
     },
     {
         "name": "SSSP-lib-pbe-prec-v2.tar.gz",
-        "dest": ROOT / "SSSP/v2.0/precision/SSSP-lib-pbe-prec-v2.tar.gz",
+        "dest": RAW / "SSSP/v2.0/precision/SSSP-lib-pbe-prec-v2.tar.gz",
         "min_size": 50_000_000,
         "urls": [
             "https://archive.materialscloud.org/records/rcyfm-68h65/files/SSSP-lib-pbe-prec-v2.tar.gz",
@@ -132,7 +132,7 @@ def process_archive(spec: dict) -> dict:
 
 def main() -> int:
     results = [process_archive(spec) for spec in ARCHIVES]
-    summary_path = ROOT / "SSSP/v2.0/download_summary.json"
+    summary_path = METADATA / "sssp_download_summary.json"  # never write into raw/
     write_json(summary_path, {"archives": results})
     print("=== download_sssp ===")
     for item in results:

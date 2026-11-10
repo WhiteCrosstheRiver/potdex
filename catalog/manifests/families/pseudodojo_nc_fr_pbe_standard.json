@@ -16,7 +16,7 @@
   "elements": {
     "Ag": {
       "filename": "Ag.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Ag.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Ag.upf",
       "id": "pseudodojo:Ag:Ag.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -28,7 +28,7 @@
     },
     "Al": {
       "filename": "Al.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Al.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Al.upf",
       "id": "pseudodojo:Al:Al.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -40,7 +40,7 @@
     },
     "Ar": {
       "filename": "Ar.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Ar.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Ar.upf",
       "id": "pseudodojo:Ar:Ar.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -52,7 +52,7 @@
     },
     "As": {
       "filename": "As.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/As.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/As.upf",
       "id": "pseudodojo:As:As.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -64,7 +64,7 @@
     },
     "Au": {
       "filename": "Au.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Au.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Au.upf",
       "id": "pseudodojo:Au:Au.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -76,7 +76,7 @@
     },
     "B": {
       "filename": "B.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/B.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/B.upf",
       "id": "pseudodojo:B:B.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -88,7 +88,7 @@
     },
     "Ba": {
       "filename": "Ba.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Ba.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Ba.upf",
       "id": "pseudodojo:Ba:Ba.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -100,7 +100,7 @@
     },
     "Be": {
       "filename": "Be.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Be.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Be.upf",
       "id": "pseudodojo:Be:Be.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -112,7 +112,7 @@
     },
     "Bi": {
       "filename": "Bi.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Bi.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Bi.upf",
       "id": "pseudodojo:Bi:Bi.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -124,7 +124,7 @@
     },
     "Br": {
       "filename": "Br.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Br.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Br.upf",
       "id": "pseudodojo:Br:Br.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -136,7 +136,7 @@
     },
     "C": {
       "filename": "C.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/C.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/C.upf",
       "id": "pseudodojo:C:C.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -148,7 +148,7 @@
     },
     "Ca": {
       "filename": "Ca.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Ca.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Ca.upf",
       "id": "pseudodojo:Ca:Ca.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -160,7 +160,7 @@
     },
     "Cd": {
       "filename": "Cd.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Cd.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Cd.upf",
       "id": "pseudodojo:Cd:Cd.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -172,7 +172,7 @@
     },
     "Cl": {
       "filename": "Cl.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Cl.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Cl.upf",
       "id": "pseudodojo:Cl:Cl.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -184,7 +184,7 @@
     },
     "Co": {
       "filename": "Co.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Co.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Co.upf",
       "id": "pseudodojo:Co:Co.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -196,7 +196,7 @@
     },
     "Cr": {
       "filename": "Cr.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Cr.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Cr.upf",
       "id": "pseudodojo:Cr:Cr.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -208,7 +208,7 @@
     },
     "Cs": {
       "filename": "Cs.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Cs.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Cs.upf",
       "id": "pseudodojo:Cs:Cs.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -220,7 +220,7 @@
     },
     "Cu": {
       "filename": "Cu.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Cu.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Cu.upf",
       "id": "pseudodojo:Cu:Cu.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -232,7 +232,7 @@
     },
     "F": {
       "filename": "F.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/F.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/F.upf",
       "id": "pseudodojo:F:F.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -244,7 +244,7 @@
     },
     "Fe": {
       "filename": "Fe.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Fe.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Fe.upf",
       "id": "pseudodojo:Fe:Fe.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -256,7 +256,7 @@
     },
     "Ga": {
       "filename": "Ga.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Ga.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Ga.upf",
       "id": "pseudodojo:Ga:Ga.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -268,7 +268,7 @@
     },
     "Ge": {
       "filename": "Ge.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Ge.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Ge.upf",
       "id": "pseudodojo:Ge:Ge.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -280,7 +280,7 @@
     },
     "H": {
       "filename": "H.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/H.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/H.upf",
       "id": "pseudodojo:H:H.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -292,7 +292,7 @@
     },
     "He": {
       "filename": "He.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/He.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/He.upf",
       "id": "pseudodojo:He:He.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -304,7 +304,7 @@
     },
     "Hf": {
       "filename": "Hf.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Hf.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Hf.upf",
       "id": "pseudodojo:Hf:Hf.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -316,7 +316,7 @@
     },
     "Hg": {
       "filename": "Hg.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Hg.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Hg.upf",
       "id": "pseudodojo:Hg:Hg.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -328,7 +328,7 @@
     },
     "I": {
       "filename": "I.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/I.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/I.upf",
       "id": "pseudodojo:I:I.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -340,7 +340,7 @@
     },
     "In": {
       "filename": "In.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/In.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/In.upf",
       "id": "pseudodojo:In:In.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -352,7 +352,7 @@
     },
     "Ir": {
       "filename": "Ir.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Ir.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Ir.upf",
       "id": "pseudodojo:Ir:Ir.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -364,7 +364,7 @@
     },
     "K": {
       "filename": "K.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/K.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/K.upf",
       "id": "pseudodojo:K:K.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -376,7 +376,7 @@
     },
     "Kr": {
       "filename": "Kr.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Kr.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Kr.upf",
       "id": "pseudodojo:Kr:Kr.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -388,7 +388,7 @@
     },
     "Li": {
       "filename": "Li.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Li.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Li.upf",
       "id": "pseudodojo:Li:Li.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -400,7 +400,7 @@
     },
     "Mg": {
       "filename": "Mg.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Mg.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Mg.upf",
       "id": "pseudodojo:Mg:Mg.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -412,7 +412,7 @@
     },
     "Mn": {
       "filename": "Mn.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Mn.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Mn.upf",
       "id": "pseudodojo:Mn:Mn.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -424,7 +424,7 @@
     },
     "Mo": {
       "filename": "Mo.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Mo.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Mo.upf",
       "id": "pseudodojo:Mo:Mo.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -436,7 +436,7 @@
     },
     "N": {
       "filename": "N.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/N.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/N.upf",
       "id": "pseudodojo:N:N.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -448,7 +448,7 @@
     },
     "Na": {
       "filename": "Na.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Na.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Na.upf",
       "id": "pseudodojo:Na:Na.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -460,7 +460,7 @@
     },
     "Nb": {
       "filename": "Nb.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Nb.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Nb.upf",
       "id": "pseudodojo:Nb:Nb.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -472,7 +472,7 @@
     },
     "Ne": {
       "filename": "Ne.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Ne.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Ne.upf",
       "id": "pseudodojo:Ne:Ne.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -484,7 +484,7 @@
     },
     "Ni": {
       "filename": "Ni.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Ni.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Ni.upf",
       "id": "pseudodojo:Ni:Ni.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -496,7 +496,7 @@
     },
     "O": {
       "filename": "O.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/O.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/O.upf",
       "id": "pseudodojo:O:O.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -508,7 +508,7 @@
     },
     "Os": {
       "filename": "Os.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Os.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Os.upf",
       "id": "pseudodojo:Os:Os.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -520,7 +520,7 @@
     },
     "P": {
       "filename": "P.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/P.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/P.upf",
       "id": "pseudodojo:P:P.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -532,7 +532,7 @@
     },
     "Pb": {
       "filename": "Pb.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Pb.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Pb.upf",
       "id": "pseudodojo:Pb:Pb.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -544,7 +544,7 @@
     },
     "Pd": {
       "filename": "Pd.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Pd.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Pd.upf",
       "id": "pseudodojo:Pd:Pd.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -556,7 +556,7 @@
     },
     "Po": {
       "filename": "Po.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Po.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Po.upf",
       "id": "pseudodojo:Po:Po.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -568,7 +568,7 @@
     },
     "Pt": {
       "filename": "Pt.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Pt.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Pt.upf",
       "id": "pseudodojo:Pt:Pt.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -580,7 +580,7 @@
     },
     "Rb": {
       "filename": "Rb.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Rb.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Rb.upf",
       "id": "pseudodojo:Rb:Rb.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -592,7 +592,7 @@
     },
     "Re": {
       "filename": "Re.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Re.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Re.upf",
       "id": "pseudodojo:Re:Re.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -604,7 +604,7 @@
     },
     "Rh": {
       "filename": "Rh.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Rh.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Rh.upf",
       "id": "pseudodojo:Rh:Rh.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -616,7 +616,7 @@
     },
     "Rn": {
       "filename": "Rn.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Rn.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Rn.upf",
       "id": "pseudodojo:Rn:Rn.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -628,7 +628,7 @@
     },
     "Ru": {
       "filename": "Ru.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Ru.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Ru.upf",
       "id": "pseudodojo:Ru:Ru.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -640,7 +640,7 @@
     },
     "S": {
       "filename": "S.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/S.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/S.upf",
       "id": "pseudodojo:S:S.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -652,7 +652,7 @@
     },
     "Sb": {
       "filename": "Sb.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Sb.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Sb.upf",
       "id": "pseudodojo:Sb:Sb.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -664,7 +664,7 @@
     },
     "Sc": {
       "filename": "Sc.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Sc.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Sc.upf",
       "id": "pseudodojo:Sc:Sc.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -676,7 +676,7 @@
     },
     "Se": {
       "filename": "Se.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Se.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Se.upf",
       "id": "pseudodojo:Se:Se.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -688,7 +688,7 @@
     },
     "Si": {
       "filename": "Si.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Si.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Si.upf",
       "id": "pseudodojo:Si:Si.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -700,7 +700,7 @@
     },
     "Sn": {
       "filename": "Sn.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Sn.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Sn.upf",
       "id": "pseudodojo:Sn:Sn.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -712,7 +712,7 @@
     },
     "Sr": {
       "filename": "Sr.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Sr.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Sr.upf",
       "id": "pseudodojo:Sr:Sr.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -724,7 +724,7 @@
     },
     "Ta": {
       "filename": "Ta.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Ta.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Ta.upf",
       "id": "pseudodojo:Ta:Ta.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -736,7 +736,7 @@
     },
     "Tc": {
       "filename": "Tc.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Tc.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Tc.upf",
       "id": "pseudodojo:Tc:Tc.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -748,7 +748,7 @@
     },
     "Te": {
       "filename": "Te.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Te.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Te.upf",
       "id": "pseudodojo:Te:Te.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -760,7 +760,7 @@
     },
     "Ti": {
       "filename": "Ti.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Ti.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Ti.upf",
       "id": "pseudodojo:Ti:Ti.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -772,7 +772,7 @@
     },
     "Tl": {
       "filename": "Tl.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Tl.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Tl.upf",
       "id": "pseudodojo:Tl:Tl.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -784,7 +784,7 @@
     },
     "V": {
       "filename": "V.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/V.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/V.upf",
       "id": "pseudodojo:V:V.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -796,7 +796,7 @@
     },
     "W": {
       "filename": "W.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/W.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/W.upf",
       "id": "pseudodojo:W:W.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -808,7 +808,7 @@
     },
     "Xe": {
       "filename": "Xe.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Xe.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Xe.upf",
       "id": "pseudodojo:Xe:Xe.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -820,7 +820,7 @@
     },
     "Y": {
       "filename": "Y.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Y.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Y.upf",
       "id": "pseudodojo:Y:Y.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -832,7 +832,7 @@
     },
     "Zn": {
       "filename": "Zn.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Zn.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Zn.upf",
       "id": "pseudodojo:Zn:Zn.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -844,7 +844,7 @@
     },
     "Zr": {
       "filename": "Zr.upf",
-      "source_path": "PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Zr.upf",
+      "source_path": "raw/PseudoDOJO/pseudos/nc-fr-04_pbe_standard/Zr.upf",
       "id": "pseudodojo:Zr:Zr.upf",
       "formalism": "NC",
       "xc_functional": "PBE",

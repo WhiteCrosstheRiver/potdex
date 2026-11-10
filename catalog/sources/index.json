@@ -1,0 +1,74 @@
+{
+  "BLPSLibrary": {
+    "url": "https://github.com/PrincetonUniversity/BLPSLibrary",
+    "license": "CC BY-ND 4.0",
+    "license_verified": true,
+    "files": 40,
+    "bytes": 6008276,
+    "manifest_sha256": "681eac9c4be7476ceb4283ad63c65bbfc0116178a5012afbe037f277e76fe6b5"
+  },
+  "PSlibrary": {
+    "url": "https://pseudopotentials.quantum-espresso.org/legacy_tables/ps-library",
+    "license": "GPL-2.0-or-later",
+    "license_verified": false,
+    "files": 1425,
+    "bytes": 3746828594,
+    "manifest_sha256": "ed8d28dc8041bf34aac58567d21d3555c0f458e0edf99a52fb65adeb28304bc1"
+  },
+  "PWmat": {
+    "url": "http://www.pwmat.com/pwmat-resource/pseduo-download/",
+    "license": null,
+    "license_verified": false,
+    "files": 681,
+    "bytes": 218383696,
+    "manifest_sha256": "d517368efa49aac5ef5e4f40ce6a335aa694c828ed065653d8e294df5dbf1fec"
+  },
+  "PseudoDOJO": {
+    "url": "https://www.pseudo-dojo.org",
+    "license": "CC BY 4.0",
+    "license_verified": false,
+    "files": 2312,
+    "bytes": 2442191052,
+    "manifest_sha256": "56faea26a57aee093fa545e99d0d937089b339b5e8200af7e434e958ba3609c7"
+  },
+  "Rappe-group": {
+    "url": "https://www.sas.upenn.edu/rappegroup/research",
+    "license": null,
+    "license_verified": false,
+    "files": 240,
+    "bytes": 27288701,
+    "manifest_sha256": "1915bc7ac93787c7b9c5d595fe03f96f111bc64656bb83d1061f68d564572347"
+  },
+  "SG15-ONCV": {
+    "url": "http://www.quantum-simulation.org/potentials/sg15_oncv/",
+    "license": "CC BY-SA 4.0",
+    "license_verified": false,
+    "files": 380,
+    "bytes": 68969198,
+    "manifest_sha256": "4b40a3584de0796c10e1ed7f57b64f796d7408315e94051d7478d549a73ead4e"
+  },
+  "SSSP": {
+    "url": "https://www.materialscloud.org/discover/sssp",
+    "license": "per-pseudopotential (see SSSP metadata)",
+    "license_verified": false,
+    "files": 414,
+    "bytes": 1802319440,
+    "manifest_sha256": "4568ac8a299d3749a7d2d2530d35dc1398877b1a3f757ad5f01195e854f0d4a6"
+  },
+  "Vanderbilt-USPP": {
+    "url": "https://www.physics.rutgers.edu/gbrv/",
+    "license": null,
+    "license_verified": false,
+    "files": 578,
+    "bytes": 255017361,
+    "manifest_sha256": "76937016edce24515cdad5a2b209ac258440e17d9a349c34b57d9e1bf6a8f690"
+  },
+  "pseudos_ac_she": {
+    "url": "https://github.com/gmatteo/pseudos_ac_she",
+    "license": null,
+    "license_verified": false,
+    "files": 965,
+    "bytes": 505573612,
+    "manifest_sha256": "2db4fba83e0b96e17e71ba79443fa707dccd5173fba4e1f16c176c8363e7a7c3"
+  }
+}

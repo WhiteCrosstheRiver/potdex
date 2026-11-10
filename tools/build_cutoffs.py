@@ -9,7 +9,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from common import METADATA, ROOT, write_json, write_jsonl
+from common import RAW, METADATA, ROOT, write_json, write_jsonl
 
 
 def load_jsonl(path: Path) -> list[dict]:
@@ -27,7 +27,7 @@ def apply_sssp_v13(rows: list[dict]) -> tuple[int, list[dict]]:
     unresolved: list[dict] = []
     md5_index = {row["md5"]: row for row in rows if row.get("md5")}
 
-    for json_path in sorted((ROOT / "SSSP").glob("v*/SSSP_*_*.json")):
+    for json_path in sorted((RAW / "SSSP").glob("v*/SSSP_*_*.json")):
         if "v2.0" in str(json_path):
             continue
         meta = json.loads(json_path.read_text(encoding="utf-8"))
@@ -57,16 +57,23 @@ def apply_sssp_v13(rows: list[dict]) -> tuple[int, list[dict]]:
     return matched, unresolved
 
 
+def _raw_key(path: str | None) -> str | None:
+    """Path relative to raw/, whether or not the stored path carries the raw/ prefix."""
+    if path is None:
+        return None
+    return path[4:] if path.startswith("raw/") else path
+
+
 def apply_sssp_v2(rows: list[dict]) -> int:
     matched = 0
-    for meta_path in sorted((ROOT / "SSSP/v2.0").glob("*/metadata.json")):
+    for meta_path in sorted((RAW / "SSSP/v2.0").glob("*/metadata.json")):
         meta = json.loads(meta_path.read_text(encoding="utf-8"))
         set_id = meta.get("set_id", meta_path.parent.name)
-        path_index = {item["source_path"]: item for item in meta.get("files", [])}
+        path_index = {_raw_key(item["source_path"]): item for item in meta.get("files", [])}
         for row in rows:
             if row.get("library_id") != "sssp":
                 continue
-            info = path_index.get(row.get("source_path"))
+            info = path_index.get(_raw_key(row.get("source_path")))
             if not info:
                 continue
             row["cutoff_wfc"] = info.get("cutoff_wfc")
@@ -80,7 +87,7 @@ def apply_sssp_v2(rows: list[dict]) -> int:
 
 def apply_pseudodojo_hints(rows: list[dict]) -> int:
     matched = 0
-    meta_dir = ROOT / "PseudoDOJO/metadata"
+    meta_dir = RAW / "PseudoDOJO/metadata"
     if not meta_dir.exists():
         return 0
 

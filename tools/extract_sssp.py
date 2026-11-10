@@ -11,44 +11,44 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from common import ROOT, element_from_filename, element_from_sssp_filename, md5_file, rel_path, write_json
+from common import METADATA, RAW, ROOT, element_from_filename, element_from_sssp_filename, md5_file, rel_path, write_json
 
 SETS = [
     {
-        "tar": ROOT / "SSSP/v2.0/efficiency/SSSP-lib-pbe-eff-v2.tar.gz",
+        "tar": RAW / "SSSP/v2.0/efficiency/SSSP-lib-pbe-eff-v2.tar.gz",
         "fallback_tar": None,
-        "dest": ROOT / "SSSP/v2.0/PBE_efficiency/upf",
-        "metadata_src": ROOT / "SSSP/v2.0/efficiency/cutoffs.json",
+        "dest": RAW / "SSSP/v2.0/PBE_efficiency/upf",
+        "metadata_src": RAW / "SSSP/v2.0/efficiency/cutoffs.json",
         "fallback_metadata": None,
         "set_id": "SSSP-2.0-PBE-efficiency",
         "xc": "PBE",
         "tier": "efficiency",
     },
     {
-        "tar": ROOT / "SSSP/v2.0/precision/SSSP-lib-pbe-prec-v2.tar.gz",
-        "fallback_tar": ROOT / "SSSP/v1.1.2/SSSP_1.1.2_PBE_precision.tar.gz",
-        "dest": ROOT / "SSSP/v2.0/PBE_precision/upf",
-        "metadata_src": ROOT / "SSSP/v2.0/precision/cutoffs.json",
-        "fallback_metadata": ROOT / "SSSP/v1.1.2/SSSP_1.1.2_PBE_precision.json",
+        "tar": RAW / "SSSP/v2.0/precision/SSSP-lib-pbe-prec-v2.tar.gz",
+        "fallback_tar": RAW / "SSSP/v1.1.2/SSSP_1.1.2_PBE_precision.tar.gz",
+        "dest": RAW / "SSSP/v2.0/PBE_precision/upf",
+        "metadata_src": RAW / "SSSP/v2.0/precision/cutoffs.json",
+        "fallback_metadata": RAW / "SSSP/v1.1.2/SSSP_1.1.2_PBE_precision.json",
         "set_id": "SSSP-2.0-PBE-precision",
         "xc": "PBE",
         "tier": "precision",
     },
     {
-        "tar": ROOT / "SSSP/v2.0/efficiency/SSSP-lib-pbesol-eff-v2.tar.gz",
+        "tar": RAW / "SSSP/v2.0/efficiency/SSSP-lib-pbesol-eff-v2.tar.gz",
         "fallback_tar": None,
-        "dest": ROOT / "SSSP/v2.0/PBEsol_efficiency/upf",
-        "metadata_src": ROOT / "SSSP/v2.0/efficiency/cutoffs.json",
+        "dest": RAW / "SSSP/v2.0/PBEsol_efficiency/upf",
+        "metadata_src": RAW / "SSSP/v2.0/efficiency/cutoffs.json",
         "fallback_metadata": None,
         "set_id": "SSSP-2.0-PBEsol-efficiency",
         "xc": "PBEsol",
         "tier": "efficiency",
     },
     {
-        "tar": ROOT / "SSSP/v2.0/precision/SSSP-lib-pbesol-prec-v2.tar.gz",
+        "tar": RAW / "SSSP/v2.0/precision/SSSP-lib-pbesol-prec-v2.tar.gz",
         "fallback_tar": None,
-        "dest": ROOT / "SSSP/v2.0/PBEsol_precision/upf",
-        "metadata_src": ROOT / "SSSP/v2.0/precision/cutoffs.json",
+        "dest": RAW / "SSSP/v2.0/PBEsol_precision/upf",
+        "metadata_src": RAW / "SSSP/v2.0/precision/cutoffs.json",
         "fallback_metadata": None,
         "set_id": "SSSP-2.0-PBEsol-precision",
         "xc": "PBEsol",
@@ -188,7 +188,7 @@ def extract_set(spec: dict) -> dict:
 
 def main() -> int:
     results = [extract_set(spec) for spec in SETS]
-    summary_path = ROOT / "SSSP/v2.0/extract_summary.json"
+    summary_path = METADATA / "sssp_extract_summary.json"  # never write into raw/
     write_json(summary_path, {"sets": results})
     print("=== extract_sssp summary ===")
     for item in results:

@@ -9,7 +9,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from common import CATALOG, MANIFESTS, METADATA, ROOT, write_json
+from common import RAW, CATALOG, MANIFESTS, METADATA, ROOT, write_json
 from families import pick_family_elements
 
 
@@ -70,7 +70,7 @@ def main() -> int:
     blps = pick_family_elements(rows, "ofdft_blps_gga")
 
     precision_fallback = False
-    prec_meta = ROOT / "SSSP/v2.0/PBE_precision/metadata.json"
+    prec_meta = RAW / "SSSP/v2.0/PBE_precision/metadata.json"
     if prec_meta.exists():
         precision_fallback = json.loads(prec_meta.read_text(encoding="utf-8")).get(
             "used_fallback_tar", False

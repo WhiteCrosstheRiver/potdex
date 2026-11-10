@@ -1,0 +1,19 @@
+{
+  "library": "pseudos_ac_she",
+  "path": "raw/pseudos_ac_she",
+  "url": "https://github.com/gmatteo/pseudos_ac_she",
+  "kind": "git",
+  "license": null,
+  "license_verified": false,
+  "fetch": null,
+  "git": {
+    "commit": "2b1b14799525afcc71e940e77f099fbee430153f",
+    "commit_date": "2023-10-12"
+  },
+  "files": 965,
+  "bytes": 505573612,
+  "newest_file_mtime": "2026-11-10",
+  "manifest": "pseudos_ac_she.sha256",
+  "manifest_sha256": "2db4fba83e0b96e17e71ba79443fa707dccd5173fba4e1f16c176c8363e7a7c3",
+  "recorded_at": "2026-11-10T12:39:53+00:00"
+}

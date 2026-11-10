@@ -8,6 +8,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+RAW = ROOT / "raw"  # downloaded upstream libraries, never edited by the pipeline
 CATALOG = ROOT / "catalog"
 METADATA = CATALOG / "metadata"
 LIBRARIES_META = METADATA / "libraries"

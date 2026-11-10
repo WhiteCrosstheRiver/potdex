@@ -1,0 +1,18 @@
+{
+  "archives": [
+    {
+      "name": "SSSP-lib-pbe-eff-v2.tar.gz",
+      "dest": "C:\\Users\\user\\Desktop\\codes\\potdex\\raw\\SSSP\\v2.0\\efficiency\\SSSP-lib-pbe-eff-v2.tar.gz",
+      "status": "existing_ok",
+      "upf_count": 95
+    },
+    {
+      "name": "SSSP-lib-pbe-prec-v2.tar.gz",
+      "dest": "C:\\Users\\user\\Desktop\\codes\\potdex\\raw\\SSSP\\v2.0\\precision\\SSSP-lib-pbe-prec-v2.tar.gz",
+      "status": "failed",
+      "existing_corrupt": "Compressed file ended before the end-of-stream marker was reached",
+      "error": "HTTP Error 404: Not Found",
+      "corrupt": "Compressed file ended before the end-of-stream marker was reached"
+    }
+  ]
+}

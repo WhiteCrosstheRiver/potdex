@@ -16,7 +16,7 @@
   "elements": {
     "Ag": {
       "filename": "Ag_ONCV_PBE-1.0.oncvpsp.upf",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Ag_ONCV_PBE-1.0.oncvpsp.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Ag_ONCV_PBE-1.0.oncvpsp.upf",
       "id": "sssp:Ag:Ag_ONCV_PBE-1.0.oncvpsp.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -26,7 +26,7 @@
     },
     "Ar": {
       "filename": "Ar_ONCV_PBE-1.1.oncvpsp.upf",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Ar_ONCV_PBE-1.1.oncvpsp.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Ar_ONCV_PBE-1.1.oncvpsp.upf",
       "id": "sssp:Ar:Ar_ONCV_PBE-1.1.oncvpsp.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -36,7 +36,7 @@
     },
     "As": {
       "filename": "As.pbe-n-rrkjus_psl.0.2.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/As.pbe-n-rrkjus_psl.0.2.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/As.pbe-n-rrkjus_psl.0.2.UPF",
       "id": "sssp:As:As.pbe-n-rrkjus_psl.0.2.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -46,7 +46,7 @@
     },
     "Au": {
       "filename": "Au_ONCV_PBE-1.0.oncvpsp.upf",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Au_ONCV_PBE-1.0.oncvpsp.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Au_ONCV_PBE-1.0.oncvpsp.upf",
       "id": "sssp:Au:Au_ONCV_PBE-1.0.oncvpsp.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -56,7 +56,7 @@
     },
     "B": {
       "filename": "B_pbe_v1.01.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/B_pbe_v1.01.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/B_pbe_v1.01.uspp.F.UPF",
       "id": "sssp:B:B_pbe_v1.01.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -66,7 +66,7 @@
     },
     "Be": {
       "filename": "Be_ONCV_PBE-1.0.oncvpsp.upf",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Be_ONCV_PBE-1.0.oncvpsp.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Be_ONCV_PBE-1.0.oncvpsp.upf",
       "id": "sssp:Be:Be_ONCV_PBE-1.0.oncvpsp.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -76,7 +76,7 @@
     },
     "Bi": {
       "filename": "Bi_pbe_v1.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Bi_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Bi_pbe_v1.uspp.F.UPF",
       "id": "sssp:Bi:Bi_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -86,7 +86,7 @@
     },
     "Br": {
       "filename": "br_pbe_v1.4.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/br_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/br_pbe_v1.4.uspp.F.UPF",
       "id": "sssp:Br:br_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -96,7 +96,7 @@
     },
     "Ca": {
       "filename": "Ca_pbe_v1.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Ca_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Ca_pbe_v1.uspp.F.UPF",
       "id": "sssp:Ca:Ca_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -106,7 +106,7 @@
     },
     "Cd": {
       "filename": "Cd.pbe-dn-rrkjus_psl.0.3.1.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Cd.pbe-dn-rrkjus_psl.0.3.1.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Cd.pbe-dn-rrkjus_psl.0.3.1.UPF",
       "id": "sssp:Cd:Cd.pbe-dn-rrkjus_psl.0.3.1.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -116,7 +116,7 @@
     },
     "Cl": {
       "filename": "Cl.pbe-n-rrkjus_psl.1.0.0.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Cl.pbe-n-rrkjus_psl.1.0.0.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Cl.pbe-n-rrkjus_psl.1.0.0.UPF",
       "id": "sssp:Cl:Cl.pbe-n-rrkjus_psl.1.0.0.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -126,7 +126,7 @@
     },
     "Co": {
       "filename": "Co_pbe_v1.2.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Co_pbe_v1.2.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Co_pbe_v1.2.uspp.F.UPF",
       "id": "sssp:Co:Co_pbe_v1.2.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -136,7 +136,7 @@
     },
     "Cr": {
       "filename": "cr_pbe_v1.5.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/cr_pbe_v1.5.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/cr_pbe_v1.5.uspp.F.UPF",
       "id": "sssp:Cr:cr_pbe_v1.5.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -146,7 +146,7 @@
     },
     "Cs": {
       "filename": "Cs_pbe_v1.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Cs_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Cs_pbe_v1.uspp.F.UPF",
       "id": "sssp:Cs:Cs_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -156,7 +156,7 @@
     },
     "Cu": {
       "filename": "Cu_ONCV_PBE-1.0.oncvpsp.upf",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Cu_ONCV_PBE-1.0.oncvpsp.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Cu_ONCV_PBE-1.0.oncvpsp.upf",
       "id": "sssp:Cu:Cu_ONCV_PBE-1.0.oncvpsp.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -166,7 +166,7 @@
     },
     "F": {
       "filename": "F.oncvpsp.upf",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/F.oncvpsp.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/F.oncvpsp.upf",
       "id": "sssp:F:F.oncvpsp.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -176,7 +176,7 @@
     },
     "Ge": {
       "filename": "ge_pbe_v1.4.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/ge_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/ge_pbe_v1.4.uspp.F.UPF",
       "id": "sssp:Ge:ge_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -186,7 +186,7 @@
     },
     "H": {
       "filename": "H_ONCV_PBE-1.0.oncvpsp.upf",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/H_ONCV_PBE-1.0.oncvpsp.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/H_ONCV_PBE-1.0.oncvpsp.upf",
       "id": "sssp:H:H_ONCV_PBE-1.0.oncvpsp.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -196,7 +196,7 @@
     },
     "He": {
       "filename": "He_ONCV_PBE-1.0.oncvpsp.upf",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/He_ONCV_PBE-1.0.oncvpsp.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/He_ONCV_PBE-1.0.oncvpsp.upf",
       "id": "sssp:He:He_ONCV_PBE-1.0.oncvpsp.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -206,7 +206,7 @@
     },
     "Hf": {
       "filename": "Hf-sp.oncvpsp.upf",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Hf-sp.oncvpsp.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Hf-sp.oncvpsp.upf",
       "id": "sssp:Hf:Hf-sp.oncvpsp.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -216,7 +216,7 @@
     },
     "Hg": {
       "filename": "Hg_ONCV_PBE-1.0.oncvpsp.upf",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Hg_ONCV_PBE-1.0.oncvpsp.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Hg_ONCV_PBE-1.0.oncvpsp.upf",
       "id": "sssp:Hg:Hg_ONCV_PBE-1.0.oncvpsp.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -226,7 +226,7 @@
     },
     "In": {
       "filename": "In.pbe-dn-rrkjus_psl.0.2.2.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/In.pbe-dn-rrkjus_psl.0.2.2.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/In.pbe-dn-rrkjus_psl.0.2.2.UPF",
       "id": "sssp:In:In.pbe-dn-rrkjus_psl.0.2.2.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -236,7 +236,7 @@
     },
     "Ir": {
       "filename": "Ir_pbe_v1.2.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Ir_pbe_v1.2.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Ir_pbe_v1.2.uspp.F.UPF",
       "id": "sssp:Ir:Ir_pbe_v1.2.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -246,7 +246,7 @@
     },
     "Kr": {
       "filename": "Kr_ONCV_PBE-1.0.oncvpsp.upf",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Kr_ONCV_PBE-1.0.oncvpsp.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Kr_ONCV_PBE-1.0.oncvpsp.upf",
       "id": "sssp:Kr:Kr_ONCV_PBE-1.0.oncvpsp.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -256,7 +256,7 @@
     },
     "Li": {
       "filename": "li_pbe_v1.4.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/li_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/li_pbe_v1.4.uspp.F.UPF",
       "id": "sssp:Li:li_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -266,7 +266,7 @@
     },
     "Mg": {
       "filename": "mg_pbe_v1.4.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/mg_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/mg_pbe_v1.4.uspp.F.UPF",
       "id": "sssp:Mg:mg_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -276,7 +276,7 @@
     },
     "Mn": {
       "filename": "mn_pbe_v1.5.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/mn_pbe_v1.5.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/mn_pbe_v1.5.uspp.F.UPF",
       "id": "sssp:Mn:mn_pbe_v1.5.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -286,7 +286,7 @@
     },
     "Mo": {
       "filename": "Mo_ONCV_PBE-1.0.oncvpsp.upf",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Mo_ONCV_PBE-1.0.oncvpsp.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Mo_ONCV_PBE-1.0.oncvpsp.upf",
       "id": "sssp:Mo:Mo_ONCV_PBE-1.0.oncvpsp.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -296,7 +296,7 @@
     },
     "N": {
       "filename": "N.oncvpsp.upf",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/N.oncvpsp.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/N.oncvpsp.upf",
       "id": "sssp:N:N.oncvpsp.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -306,7 +306,7 @@
     },
     "Na": {
       "filename": "Na_ONCV_PBE-1.0.oncvpsp.upf",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Na_ONCV_PBE-1.0.oncvpsp.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Na_ONCV_PBE-1.0.oncvpsp.upf",
       "id": "sssp:Na:Na_ONCV_PBE-1.0.oncvpsp.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -316,7 +316,7 @@
     },
     "Ne": {
       "filename": "Ne_ONCV_PBE-1.0.oncvpsp.upf",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Ne_ONCV_PBE-1.0.oncvpsp.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Ne_ONCV_PBE-1.0.oncvpsp.upf",
       "id": "sssp:Ne:Ne_ONCV_PBE-1.0.oncvpsp.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -326,7 +326,7 @@
     },
     "Ni": {
       "filename": "ni_pbe_v1.4.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/ni_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/ni_pbe_v1.4.uspp.F.UPF",
       "id": "sssp:Ni:ni_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -336,7 +336,7 @@
     },
     "Os": {
       "filename": "Os_pbe_v1.2.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Os_pbe_v1.2.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Os_pbe_v1.2.uspp.F.UPF",
       "id": "sssp:Os:Os_pbe_v1.2.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -346,7 +346,7 @@
     },
     "P": {
       "filename": "P.pbe-n-rrkjus_psl.1.0.0.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/P.pbe-n-rrkjus_psl.1.0.0.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/P.pbe-n-rrkjus_psl.1.0.0.UPF",
       "id": "sssp:P:P.pbe-n-rrkjus_psl.1.0.0.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -356,7 +356,7 @@
     },
     "Pd": {
       "filename": "Pd_ONCV_PBE-1.0.oncvpsp.upf",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Pd_ONCV_PBE-1.0.oncvpsp.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Pd_ONCV_PBE-1.0.oncvpsp.upf",
       "id": "sssp:Pd:Pd_ONCV_PBE-1.0.oncvpsp.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -366,7 +366,7 @@
     },
     "Po": {
       "filename": "Po.pbe-dn-rrkjus_psl.1.0.0.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Po.pbe-dn-rrkjus_psl.1.0.0.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Po.pbe-dn-rrkjus_psl.1.0.0.UPF",
       "id": "sssp:Po:Po.pbe-dn-rrkjus_psl.1.0.0.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -376,7 +376,7 @@
     },
     "Pt": {
       "filename": "Pt.pbe-spfn-rrkjus_psl.1.0.0.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Pt.pbe-spfn-rrkjus_psl.1.0.0.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Pt.pbe-spfn-rrkjus_psl.1.0.0.UPF",
       "id": "sssp:Pt:Pt.pbe-spfn-rrkjus_psl.1.0.0.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -386,7 +386,7 @@
     },
     "Rb": {
       "filename": "Rb_ONCV_PBE-1.0.oncvpsp.upf",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Rb_ONCV_PBE-1.0.oncvpsp.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Rb_ONCV_PBE-1.0.oncvpsp.upf",
       "id": "sssp:Rb:Rb_ONCV_PBE-1.0.oncvpsp.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -396,7 +396,7 @@
     },
     "Re": {
       "filename": "Re_pbe_v1.2.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Re_pbe_v1.2.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Re_pbe_v1.2.uspp.F.UPF",
       "id": "sssp:Re:Re_pbe_v1.2.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -406,7 +406,7 @@
     },
     "Rh": {
       "filename": "Rh_ONCV_PBE-1.0.oncvpsp.upf",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Rh_ONCV_PBE-1.0.oncvpsp.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Rh_ONCV_PBE-1.0.oncvpsp.upf",
       "id": "sssp:Rh:Rh_ONCV_PBE-1.0.oncvpsp.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -416,7 +416,7 @@
     },
     "Ru": {
       "filename": "Ru_ONCV_PBE-1.0.oncvpsp.upf",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Ru_ONCV_PBE-1.0.oncvpsp.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Ru_ONCV_PBE-1.0.oncvpsp.upf",
       "id": "sssp:Ru:Ru_ONCV_PBE-1.0.oncvpsp.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -426,7 +426,7 @@
     },
     "S": {
       "filename": "s_pbe_v1.4.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/s_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/s_pbe_v1.4.uspp.F.UPF",
       "id": "sssp:S:s_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -436,7 +436,7 @@
     },
     "Sb": {
       "filename": "sb_pbe_v1.4.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/sb_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/sb_pbe_v1.4.uspp.F.UPF",
       "id": "sssp:Sb:sb_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -446,7 +446,7 @@
     },
     "Se": {
       "filename": "Se_pbe_v1.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Se_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Se_pbe_v1.uspp.F.UPF",
       "id": "sssp:Se:Se_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -456,7 +456,7 @@
     },
     "Si": {
       "filename": "Si.pbe-n-rrkjus_psl.1.0.0.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Si.pbe-n-rrkjus_psl.1.0.0.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Si.pbe-n-rrkjus_psl.1.0.0.UPF",
       "id": "sssp:Si:Si.pbe-n-rrkjus_psl.1.0.0.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -466,7 +466,7 @@
     },
     "Sn": {
       "filename": "Sn_pbe_v1.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Sn_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Sn_pbe_v1.uspp.F.UPF",
       "id": "sssp:Sn:Sn_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -476,7 +476,7 @@
     },
     "Sr": {
       "filename": "Sr_pbe_v1.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Sr_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Sr_pbe_v1.uspp.F.UPF",
       "id": "sssp:Sr:Sr_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -486,7 +486,7 @@
     },
     "Ta": {
       "filename": "Ta_pbe_v1.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Ta_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Ta_pbe_v1.uspp.F.UPF",
       "id": "sssp:Ta:Ta_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -496,7 +496,7 @@
     },
     "Tc": {
       "filename": "Tc_ONCV_PBE-1.0.oncvpsp.upf",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Tc_ONCV_PBE-1.0.oncvpsp.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Tc_ONCV_PBE-1.0.oncvpsp.upf",
       "id": "sssp:Tc:Tc_ONCV_PBE-1.0.oncvpsp.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -506,7 +506,7 @@
     },
     "Te": {
       "filename": "Te_pbe_v1.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Te_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Te_pbe_v1.uspp.F.UPF",
       "id": "sssp:Te:Te_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -516,7 +516,7 @@
     },
     "Ti": {
       "filename": "ti_pbe_v1.4.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/ti_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/ti_pbe_v1.4.uspp.F.UPF",
       "id": "sssp:Ti:ti_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -526,7 +526,7 @@
     },
     "Tl": {
       "filename": "Tl_pbe_v1.2.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Tl_pbe_v1.2.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Tl_pbe_v1.2.uspp.F.UPF",
       "id": "sssp:Tl:Tl_pbe_v1.2.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -536,7 +536,7 @@
     },
     "V": {
       "filename": "v_pbe_v1.4.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/v_pbe_v1.4.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/v_pbe_v1.4.uspp.F.UPF",
       "id": "sssp:V:v_pbe_v1.4.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -546,7 +546,7 @@
     },
     "W": {
       "filename": "W_pbe_v1.2.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/W_pbe_v1.2.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/W_pbe_v1.2.uspp.F.UPF",
       "id": "sssp:W:W_pbe_v1.2.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -556,7 +556,7 @@
     },
     "Xe": {
       "filename": "Xe_ONCV_PBE-1.1.oncvpsp.upf",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Xe_ONCV_PBE-1.1.oncvpsp.upf",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Xe_ONCV_PBE-1.1.oncvpsp.upf",
       "id": "sssp:Xe:Xe_ONCV_PBE-1.1.oncvpsp.upf",
       "formalism": "NC",
       "xc_functional": "PBE",
@@ -566,7 +566,7 @@
     },
     "Y": {
       "filename": "Y_pbe_v1.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Y_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Y_pbe_v1.uspp.F.UPF",
       "id": "sssp:Y:Y_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -576,7 +576,7 @@
     },
     "Zn": {
       "filename": "Zn_pbe_v1.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Zn_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Zn_pbe_v1.uspp.F.UPF",
       "id": "sssp:Zn:Zn_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",
@@ -586,7 +586,7 @@
     },
     "Zr": {
       "filename": "Zr_pbe_v1.uspp.F.UPF",
-      "source_path": "SSSP/v2.0/PBE_precision/upf/Zr_pbe_v1.uspp.F.UPF",
+      "source_path": "raw/SSSP/v2.0/PBE_precision/upf/Zr_pbe_v1.uspp.F.UPF",
       "id": "sssp:Zr:Zr_pbe_v1.uspp.F.UPF",
       "formalism": "USPP",
       "xc_functional": "PBE",

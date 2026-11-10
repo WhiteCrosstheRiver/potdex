@@ -9,7 +9,7 @@ import urllib.request
 from pathlib import Path
 
 BASE_URL = "https://www.physics.rutgers.edu/gbrv/"
-ROOT = Path(__file__).resolve().parents[2] / "Vanderbilt-USPP" / "GBRV-v1.5"
+ROOT = Path(__file__).resolve().parents[2] / "raw" / "Vanderbilt-USPP" / "GBRV-v1.5"
 PRODUCTION_FMT = "upf"
 ARCHIVE_FORMATS = {"uspp", "paw", "paw-xml"}
 

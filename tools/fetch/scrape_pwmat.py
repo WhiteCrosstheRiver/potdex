@@ -15,7 +15,7 @@ import urllib.request
 from pathlib import Path
 
 BASE_URL = "http://www.pwmat.com/pwmat-resource/pseduo-download/"
-ROOT_DIR = Path(__file__).resolve().parents[2] / "PWmat"
+ROOT_DIR = Path(__file__).resolve().parents[2] / "raw" / "PWmat"
 
 PACKAGES = [
     "NCPP-PD04-PBE.zip",

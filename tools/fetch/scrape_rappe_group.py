@@ -15,7 +15,7 @@ import urllib.request
 from pathlib import Path
 
 BASE_URL = "https://www.sas.upenn.edu/rappegroup/research"
-ROOT_DIR = Path(__file__).resolve().parents[2] / "Rappe-group"
+ROOT_DIR = Path(__file__).resolve().parents[2] / "raw" / "Rappe-group"
 
 PP_EXTENSIONS = {".fhi", ".param", ".rpt"}
 

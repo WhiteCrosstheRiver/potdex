@@ -10,7 +10,7 @@ import urllib.request
 from pathlib import Path
 
 BASE_URL = "https://www.pseudo-dojo.org"
-BASE_DIR = Path(__file__).resolve().parents[2] / "PseudoDOJO"
+BASE_DIR = Path(__file__).resolve().parents[2] / "raw" / "PseudoDOJO"
 PP_FORMATS = {"upf", "psp8", "psml", "xml"}
 
 
