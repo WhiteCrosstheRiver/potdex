@@ -1,0 +1,36 @@
+{
+  "sssp_efficiency_missing": [
+    "B",
+    "O",
+    "Na",
+    "Ar",
+    "Fe",
+    "Cu",
+    "Zn",
+    "Ga",
+    "As",
+    "Nb",
+    "Mo",
+    "Cd",
+    "Sn",
+    "Sb",
+    "Xe",
+    "La"
+  ],
+  "sssp_precision_missing": [
+    "C",
+    "O",
+    "Al",
+    "K",
+    "Sc",
+    "Fe",
+    "Ga",
+    "Nb",
+    "I",
+    "Ba",
+    "La",
+    "Pb"
+  ],
+  "sg15_sr_covers_all_main": true,
+  "note": "缺失元素请用 select_system_pp.py 自动切换到 SG15/PseudoDojo 等完整 family"
+}

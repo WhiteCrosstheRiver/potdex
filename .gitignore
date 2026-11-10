@@ -1,0 +1,23 @@
+# Raw downloaded libraries (large; re-fetch with tools/fetch/ or tools/download_sssp.py)
+/BLPSLibrary/
+/PseudoDOJO/
+/pseudos_ac_she/
+/PSlibrary/
+/PWmat/
+/Rappe-group/
+/SG15-ONCV/
+/SSSP/
+/Vanderbilt-USPP/
+
+# Derived catalog output that is rebuilt by tools/run_pipeline.py
+/catalog/views/
+/catalog/metadata/parsed_headers/
+
+# Per-calculation output from select_system_pp.py
+/calc/
+/calculations/
+
+# Python
+__pycache__/
+*.pyc
+*.part

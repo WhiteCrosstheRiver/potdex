@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-11-10T12:18:44.328702+00:00",
+  "abacus_smoke_test": "passed",
+  "abacus_found": false,
+  "abacus_executable": null,
+  "abacus_version": null,
+  "passed": 4,
+  "total": 4,
+  "tests": [
+    {
+      "id": "nc_si",
+      "description": "普通 NC — Si SCF",
+      "status": "pp_readable",
+      "family_used": "sssp_v2_pbe_efficiency",
+      "pp_check": "header readable",
+      "abacus_run": "skipped_no_abacus"
+    },
+    {
+      "id": "uspp_al",
+      "description": "USPP — Al SCF",
+      "status": "pp_readable",
+      "family_used": "gbrv_v1.5_pbe_uspp",
+      "pp_check": "header readable",
+      "abacus_run": "skipped_no_abacus"
+    },
+    {
+      "id": "magnetic_fe",
+      "description": "磁性 — Fe 自旋极化",
+      "status": "pp_readable",
+      "family_used": "sg15_oncv_pbe_sr",
+      "pp_check": "header readable",
+      "abacus_run": "skipped_no_abacus"
+    },
+    {
+      "id": "soc_bi",
+      "description": "SOC — Bi",
+      "status": "pp_readable",
+      "family_used": "pseudodojo_nc_fr_pbe_standard",
+      "pp_check": "header readable",
+      "abacus_run": "skipped_no_abacus"
+    }
+  ]
+}

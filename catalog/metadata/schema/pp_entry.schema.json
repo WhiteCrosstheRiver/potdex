@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PPEntry",
+  "type": "object",
+  "required": [
+    "id",
+    "library_id",
+    "element",
+    "filename",
+    "source_path",
+    "file_format",
+    "formalism",
+    "abacus_ready"
+  ],
+  "properties": {
+    "id": { "type": "string" },
+    "library_id": { "type": "string" },
+    "element": { "type": ["string", "null"] },
+    "filename": { "type": "string" },
+    "source_path": { "type": "string" },
+    "file_format": { "type": "string" },
+    "formalism": { "type": "string" },
+    "abacus_ready": { "type": "boolean" },
+    "xc_functional": { "type": ["string", "null"] },
+    "relativistic": { "type": "string" },
+    "has_soc": { "type": "boolean" },
+    "role": { "type": "string" },
+    "md5": { "type": "string" },
+    "sha256": { "type": "string" },
+    "cutoff_wfc": { "type": ["number", "null"] },
+    "cutoff_rho": { "type": ["number", "null"] },
+    "cutoff_unit": { "type": ["string", "null"] },
+    "cutoff_source": { "type": ["string", "null"] },
+    "cutoff_match": { "type": ["string", "null"] },
+    "cutoff_status": { "type": ["string", "null"] },
+    "conversion_required": { "type": "boolean" },
+    "duplicate_of": { "type": ["string", "null"] },
+    "dataset": { "type": ["string", "null"] }
+  }
+}

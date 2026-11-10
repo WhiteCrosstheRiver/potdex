@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SelectionGuide",
+  "type": "object",
+  "properties": {
+    "scenarios": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["scenario_id", "primary_set"],
+        "properties": {
+          "scenario_id": { "type": "string" },
+          "description": { "type": "string" },
+          "primary_set": { "type": "string" },
+          "fallback_sets": { "type": "array", "items": { "type": "string" } },
+          "silent_cross_library_mix": { "type": "boolean" },
+          "pseudo_dir": { "type": "string" }
+        }
+      }
+    }
+  }
+}

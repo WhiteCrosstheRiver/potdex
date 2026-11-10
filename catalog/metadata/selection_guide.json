@@ -1,0 +1,44 @@
+{
+  "selection_model": {
+    "element_shelf": "catalog/views/by_element/{Element}/",
+    "coherent_family": "catalog/views/by_family/{family_id}/",
+    "system_selection": "python tools/select_system_pp.py --elements ... --task ..."
+  },
+  "task_rules": {
+    "relax": [
+      "sssp_v2_pbe_efficiency",
+      "sg15_oncv_pbe_sr",
+      "pseudodojo_nc_sr_pbe_standard",
+      "gbrv_v1.5_pbe_uspp"
+    ],
+    "precision": [
+      "sssp_v2_pbe_precision",
+      "pseudodojo_nc_sr_pbe_stringent",
+      "sg15_oncv_pbe_sr"
+    ],
+    "soc": [
+      "pseudodojo_nc_fr_pbe_standard",
+      "pseudodojo_nc_fr_pbe_stringent",
+      "sg15_oncv_pbe_fr",
+      "pwmat_pd04_pbe_soc"
+    ]
+  },
+  "legacy_scenarios": [
+    {
+      "scenario_id": "relax_pbe",
+      "maps_to_family": "sssp_v2_pbe_efficiency",
+      "description": "SSSP 效率集（仅 ABACUS-compatible 子集）"
+    },
+    {
+      "scenario_id": "precision_pbe",
+      "maps_to_family": "sssp_v2_pbe_precision",
+      "description": "SSSP 精度集"
+    }
+  ],
+  "specialist_heavy_elements": {
+    "library_id": "pseudos_ac_she",
+    "automatic_recommendation": false,
+    "manual_review_required": true
+  },
+  "single_point_policy": "普通单点能继续使用结构弛豫时相同的 PP；若切换 precision PP，建议重新弛豫或检查原子受力"
+}

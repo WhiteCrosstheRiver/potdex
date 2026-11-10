@@ -1,0 +1,9 @@
+{
+  "warning": "此文件为历史混合货架，coherent_family=false，禁止用于多元素体系",
+  "coherent_family": false,
+  "use_instead": [
+    "catalog/views/by_family/pseudodojo_nc_fr_pbe_standard",
+    "catalog/views/by_family/sg15_oncv_pbe_fr",
+    "catalog/views/by_family/pwmat_pd04_pbe_soc"
+  ]
+}

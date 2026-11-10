@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "LibrarySummary",
+  "type": "object",
+  "required": ["library_id", "canonical_root", "source_url"],
+  "properties": {
+    "library_id": { "type": "string" },
+    "canonical_root": { "type": "string" },
+    "source_url": { "type": "string" },
+    "pp_family": { "type": "string" },
+    "xc_functionals": { "type": "array", "items": { "type": "string" } },
+    "soc_capable": { "type": "boolean" },
+    "abacus_formats": { "type": "array", "items": { "type": "string" } },
+    "production_path": { "type": "string" },
+    "counts": { "type": "object" },
+    "selection_policy": { "type": "object" }
+  }
+}

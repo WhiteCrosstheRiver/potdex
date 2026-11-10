@@ -1,0 +1,115 @@
+{
+  "family_id": "ofdft_blps_gga",
+  "display_name": "BLPS GGA Real-space",
+  "description": "ABACUS OFDFT 局域赝势",
+  "task_tags": [
+    "ofdft"
+  ],
+  "xc_functional": "PBE",
+  "soc": false,
+  "coherent_family": true,
+  "families_used": [
+    "BLPS GGA Real-space"
+  ],
+  "silent_cross_library_mix": false,
+  "element_count": 8,
+  "elements": {
+    "Al": {
+      "filename": "al.gga.psp",
+      "source_path": "BLPSLibrary/GGA/real/al.gga.psp",
+      "id": "blps:Al:al.gga.psp",
+      "formalism": "LOCAL",
+      "xc_functional": "GGA",
+      "has_soc": false,
+      "relativistic": "none",
+      "cutoff_wfc": null,
+      "cutoff_rho": null,
+      "cutoff_source": null
+    },
+    "As": {
+      "filename": "as.gga.psp",
+      "source_path": "BLPSLibrary/GGA/real/as.gga.psp",
+      "id": "blps:As:as.gga.psp",
+      "formalism": "LOCAL",
+      "xc_functional": "GGA",
+      "has_soc": false,
+      "relativistic": "none",
+      "cutoff_wfc": null,
+      "cutoff_rho": null,
+      "cutoff_source": null
+    },
+    "Ga": {
+      "filename": "ga.gga.psp",
+      "source_path": "BLPSLibrary/GGA/real/ga.gga.psp",
+      "id": "blps:Ga:ga.gga.psp",
+      "formalism": "LOCAL",
+      "xc_functional": "GGA",
+      "has_soc": false,
+      "relativistic": "none",
+      "cutoff_wfc": null,
+      "cutoff_rho": null,
+      "cutoff_source": null
+    },
+    "In": {
+      "filename": "in.gga.psp",
+      "source_path": "BLPSLibrary/GGA/real/in.gga.psp",
+      "id": "blps:In:in.gga.psp",
+      "formalism": "LOCAL",
+      "xc_functional": "GGA",
+      "has_soc": false,
+      "relativistic": "none",
+      "cutoff_wfc": null,
+      "cutoff_rho": null,
+      "cutoff_source": null
+    },
+    "Mg": {
+      "filename": "mg.gga.psp",
+      "source_path": "BLPSLibrary/GGA/real/mg.gga.psp",
+      "id": "blps:Mg:mg.gga.psp",
+      "formalism": "LOCAL",
+      "xc_functional": "GGA",
+      "has_soc": false,
+      "relativistic": "none",
+      "cutoff_wfc": null,
+      "cutoff_rho": null,
+      "cutoff_source": null
+    },
+    "P": {
+      "filename": "p.gga.psp",
+      "source_path": "BLPSLibrary/GGA/real/p.gga.psp",
+      "id": "blps:P:p.gga.psp",
+      "formalism": "LOCAL",
+      "xc_functional": "GGA",
+      "has_soc": false,
+      "relativistic": "none",
+      "cutoff_wfc": null,
+      "cutoff_rho": null,
+      "cutoff_source": null
+    },
+    "Sb": {
+      "filename": "sb.gga.psp",
+      "source_path": "BLPSLibrary/GGA/real/sb.gga.psp",
+      "id": "blps:Sb:sb.gga.psp",
+      "formalism": "LOCAL",
+      "xc_functional": "GGA",
+      "has_soc": false,
+      "relativistic": "none",
+      "cutoff_wfc": null,
+      "cutoff_rho": null,
+      "cutoff_source": null
+    },
+    "Si": {
+      "filename": "si.gga.psp",
+      "source_path": "BLPSLibrary/GGA/real/si.gga.psp",
+      "id": "blps:Si:si.gga.psp",
+      "formalism": "LOCAL",
+      "xc_functional": "GGA",
+      "has_soc": false,
+      "relativistic": "none",
+      "cutoff_wfc": null,
+      "cutoff_rho": null,
+      "cutoff_source": null
+    }
+  },
+  "view_path": "catalog/views/by_family/ofdft_blps_gga"
+}

@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "checks": {
+    "total_entries": 5105,
+    "abacus_ready": 3398,
+    "paw_rejected_from_ready": true
+  }
+}

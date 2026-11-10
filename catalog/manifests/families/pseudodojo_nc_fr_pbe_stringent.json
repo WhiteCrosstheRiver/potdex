@@ -1,0 +1,19 @@
+{
+  "family_id": "pseudodojo_nc_fr_pbe_stringent",
+  "display_name": "PseudoDojo NC-FR-04 PBE Stringent",
+  "description": "PseudoDojo 全相对论 SOC stringent",
+  "task_tags": [
+    "soc",
+    "precision"
+  ],
+  "xc_functional": "PBE",
+  "soc": true,
+  "coherent_family": true,
+  "families_used": [
+    "PseudoDojo NC-FR-04 PBE Stringent"
+  ],
+  "silent_cross_library_mix": false,
+  "element_count": 0,
+  "elements": {},
+  "view_path": "catalog/views/by_family/pseudodojo_nc_fr_pbe_stringent"
+}

@@ -1,0 +1,117 @@
+{
+  "families": [
+    {
+      "family_id": "sssp_v2_pbe_efficiency",
+      "display_name": "SSSP v2.0 PBE Efficiency",
+      "element_count": 60,
+      "task_tags": [
+        "relax"
+      ],
+      "soc": false,
+      "view_path": "catalog/views/by_family/sssp_v2_pbe_efficiency"
+    },
+    {
+      "family_id": "sssp_v2_pbe_precision",
+      "display_name": "SSSP v2.0 PBE Precision",
+      "element_count": 58,
+      "task_tags": [
+        "precision"
+      ],
+      "soc": false,
+      "view_path": "catalog/views/by_family/sssp_v2_pbe_precision"
+    },
+    {
+      "family_id": "sg15_oncv_pbe_sr",
+      "display_name": "SG15 ONCV PBE Scalar-Relativistic",
+      "element_count": 69,
+      "task_tags": [
+        "relax",
+        "precision"
+      ],
+      "soc": false,
+      "view_path": "catalog/views/by_family/sg15_oncv_pbe_sr"
+    },
+    {
+      "family_id": "sg15_oncv_pbe_fr",
+      "display_name": "SG15 ONCV PBE Full-Relativistic",
+      "element_count": 52,
+      "task_tags": [
+        "soc"
+      ],
+      "soc": true,
+      "view_path": "catalog/views/by_family/sg15_oncv_pbe_fr"
+    },
+    {
+      "family_id": "pseudodojo_nc_sr_pbe_standard",
+      "display_name": "PseudoDojo NC-SR-05 PBE Standard",
+      "element_count": 72,
+      "task_tags": [
+        "relax"
+      ],
+      "soc": false,
+      "view_path": "catalog/views/by_family/pseudodojo_nc_sr_pbe_standard"
+    },
+    {
+      "family_id": "pseudodojo_nc_sr_pbe_stringent",
+      "display_name": "PseudoDojo NC-SR-05 PBE Stringent",
+      "element_count": 72,
+      "task_tags": [
+        "precision"
+      ],
+      "soc": false,
+      "view_path": "catalog/views/by_family/pseudodojo_nc_sr_pbe_stringent"
+    },
+    {
+      "family_id": "pseudodojo_nc_fr_pbe_standard",
+      "display_name": "PseudoDojo NC-FR-04 PBE Standard",
+      "element_count": 70,
+      "task_tags": [
+        "soc"
+      ],
+      "soc": true,
+      "view_path": "catalog/views/by_family/pseudodojo_nc_fr_pbe_standard"
+    },
+    {
+      "family_id": "pseudodojo_nc_fr_pbe_stringent",
+      "display_name": "PseudoDojo NC-FR-04 PBE Stringent",
+      "element_count": 0,
+      "task_tags": [
+        "soc",
+        "precision"
+      ],
+      "soc": true,
+      "view_path": "catalog/views/by_family/pseudodojo_nc_fr_pbe_stringent"
+    },
+    {
+      "family_id": "gbrv_v1.5_pbe_uspp",
+      "display_name": "GBRV v1.5 PBE USPP",
+      "element_count": 64,
+      "task_tags": [
+        "relax",
+        "uspp"
+      ],
+      "soc": false,
+      "view_path": "catalog/views/by_family/gbrv_v1.5_pbe_uspp"
+    },
+    {
+      "family_id": "pwmat_pd04_pbe_soc",
+      "display_name": "PWmat PD04 PBE SOC",
+      "element_count": 85,
+      "task_tags": [
+        "soc"
+      ],
+      "soc": true,
+      "view_path": "catalog/views/by_family/pwmat_pd04_pbe_soc"
+    },
+    {
+      "family_id": "ofdft_blps_gga",
+      "display_name": "BLPS GGA Real-space",
+      "element_count": 8,
+      "task_tags": [
+        "ofdft"
+      ],
+      "soc": false,
+      "view_path": "catalog/views/by_family/ofdft_blps_gga"
+    }
+  ]
+}
